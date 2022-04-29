@@ -131,4 +131,5 @@ dmypy.json
 # Mac
 .DS_Store
 
-# Ignore uncompressed data
+# Configs
+config.json
