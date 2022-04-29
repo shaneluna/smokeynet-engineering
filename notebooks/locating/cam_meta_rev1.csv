@@ -1,110 +1,104 @@
-,camera_id,lat,lat_decimals,long,camera_name,hpweren_camera_description,lat_adjusted,long_adjusted,code,dir,c_lat,c_long
-0,hpwren0_unknown direction,32.55,2,-117.12,tje-1-mobo-c,,32.55,-117.12,tje,1,0,0
-1,hpwren1_north,33.1599,4,-116.8081,bm-n-mobo-c,Big Black Mountain,33.15992464,-116.8080813,bm,n,33.17362597,-116.8112697
-2,hpwren1_east,33.1599,4,-116.8081,bm-e-mobo-c,Big Black Mountain,33.15992464,-116.8080813,bm,e,33.15878106,-116.7902298
-3,hpwren1_south,33.1599,4,-116.8081,bm-s-mobo-c,Big Black Mountain,33.15992464,-116.8080813,bm,s,33.15959563,-116.8080615
-4,hpwren1_west,33.1599,4,-116.8081,bm-w-mobo-c,Big Black Mountain,33.15992464,-116.8080813,bm,w,33.15909112,-116.8587058
-5,hpwren2_north,32.98,2,-117.12,bl-n-mobo-c,Black Mountain,32.9814172,-117.1164798,bl,n,32.98178813,-117.1165201
-6,hpwren2_east,32.98,2,-117.12,bl-e-mobo-c,Black Mountain,32.9814172,-117.1164798,bl,e,32.98199379,-117.1111495
-7,hpwren2_south,32.98,2,-117.12,bl-s-mobo-c,Black Mountain,32.9814172,-117.1164798,bl,s,32.98104323,-117.1163188
-8,hpwren2_west,32.98,2,-117.12,bl-w-mobo-c,Black Mountain,32.9814172,-117.1164798,bl,w,0,0
-9,hpwren3_north,33.3346,4,-116.9198,bh-n-mobo-c,Boucher Hill,33.33462774,-116.9193284,bh,n,33.33515112,-116.9193213
-10,hpwren3_east,33.3346,4,-116.9198,bh-e-mobo-c,Boucher Hill,33.33462774,-116.9193284,bh,e,33.33462443,-116.9187093
-11,hpwren3_south,33.3346,4,-116.9198,bh-s-mobo-c,Boucher Hill,33.33462774,-116.9193284,bh,s,33.30063393,-116.9211938
-12,hpwren3_west,33.3346,4,-116.9198,bh-w-mobo-c,Boucher Hill,33.33462774,-116.9193284,bh,w,33.33463517,-116.9199709
-13,hpwren5_north,33.91,2,-117.74,chino-n-mobo-c,Chino Hills,33.913837,-117.738297,chino,n,33.92261062,-117.7385004
-14,hpwren5_east,33.91,2,-117.74,chino-e-mobo-c,Chino Hills,33.913837,-117.738297,chino,e,33.91389763,-117.7362709
-15,hpwren5_south,33.91,2,-117.74,chino-s-mobo-c,Chino Hills,33.913837,-117.738297,chino,s,33.85589999,-117.7378456
-16,hpwren5_west,33.91,2,-117.74,chino-w-mobo-c,Chino Hills,33.913837,-117.738297,chino,w,33.91387512,-117.7428413
-17,hpwren6_north,32.95,2,-116.61,cp-n-mobo-c,Cuyamaca Peak,32.94646305,-116.6066707,cp,n,32.95030741,-116.605747
-18,hpwren6_east,32.95,2,-116.61,cp-e-mobo-c,Cuyamaca Peak,32.94646305,-116.6066707,cp,e,32.94564449,-116.5896901
-19,hpwren6_south,32.95,2,-116.61,cp-s-mobo-c,Cuyamaca Peak,32.94646305,-116.6066707,cp,s,32.83830709,-116.6094793
-20,hpwren6_west,32.95,2,-116.61,cp-w-mobo-c,Cuyamaca Peak,32.94646305,-116.6066707,cp,w,32.94623208,-116.638032
-21,hpwren7_north,34.0864,4,-118.5488,dwpgm-n-mobo-c,Green Peak,34.0864,-118.5488,dwpgm,n,0,0
-22,hpwren7_east,34.0864,4,-118.5488,dwpgm-e-mobo-c,Green Peak,34.0864,-118.5488,dwpgm,e,0,0
-23,hpwren7_south,34.0864,4,-118.5488,dwpgm-s-mobo-c,Green Peak,34.0864,-118.5488,dwpgm,s,0,0
-24,hpwren7_west,34.0864,4,-118.5488,dwpgm-w-mobo-c,Green Peak,34.0864,-118.5488,dwpgm,w,0,0
-25,hpwren8_north,33.36,2,-116.84,hp-n-mobo-c,High Point,33.363018,-116.83622,hp,n,33.37379901,-116.8351765
-26,hpwren8_east,33.36,2,-116.84,hp-e-mobo-c,High Point,33.363018,-116.83622,hp,e,33.3635489,-116.8248742
-27,hpwren8_south,33.36,2,-116.84,hp-s-mobo-c,High Point,33.363018,-116.83622,hp,s,33.32595408,-116.8370067
-28,hpwren8_west,33.36,2,-116.84,hp-w-mobo-c,High Point,33.363018,-116.83622,hp,w,33.36309629,-116.8375149
-29,hpwren9_north,34.07,2,-118.63,69bravo-n-mobo-c,L.A.Co.F.D Helibase 69 Bravo,34.07463206,-118.6278559,69bravo,n,34.07533903,-118.6277847
-30,hpwren9_east,34.07,2,-118.63,69bravo-e-mobo-c,L.A.Co.F.D Helibase 69 Bravo,34.07463206,-118.6278559,69bravo,e,34.07441106,-118.6258859
-31,hpwren9_south,34.07,2,-118.63,69bravo-s-mobo-c,L.A.Co.F.D Helibase 69 Bravo,34.07463206,-118.6278559,69bravo,s,34.07342081,-118.6279447
-32,hpwren9_west,34.07,2,-118.63,69bravo-w-mobo-c,L.A.Co.F.D Helibase 69 Bravo,34.07463206,-118.6278559,69bravo,w,34.07480804,-118.6296654
-33,hpwren11_north,32.73,2,-116.58,pi-n-mobo-c,Los Pinos,32.73451582,-116.5776585,pi,n,32.73496385,-116.5776905
-34,hpwren11_east,32.73,2,-116.58,pi-e-mobo-c,Los Pinos,32.73451582,-116.5776585,pi,e,32.7345954,-116.5755122
-35,hpwren11_south,32.73,2,-116.58,pi-s-mobo-c,Los Pinos,32.73451582,-116.5776585,pi,s,32.73237726,-116.5775055
-36,hpwren11_west,32.73,2,-116.58,pi-w-mobo-c,Los Pinos,32.73451582,-116.5776585,pi,w,32.73446656,-116.5809434
-37,hpwren12_north,32.7015,4,-116.7646,lp-n-mobo-c,Lyons Peak,32.7015,-116.7646,lp,n,32.70274532,-116.7645596
-38,hpwren12_east,32.7015,4,-116.7646,lp-e-mobo-c,Lyons Peak,32.7015,-116.7646,lp,e,32.70151604,-116.754257
-39,hpwren12_south,32.7015,4,-116.7646,lp-s-mobo-c,Lyons Peak,32.7015,-116.7646,lp,s,32.69084469,-116.7645718
-40,hpwren12_west,32.7015,4,-116.7646,lp-w-mobo-c,Lyons Peak,32.7015,-116.7646,lp,w,0,0
-41,hpwren13_north,33.188,3,-116.761,mg-n-mobo-c,Mesa Grande,33.188869,-116.760651,mg,n,33.2059384,-116.7609237
-42,hpwren13_east,33.188,3,-116.761,mg-e-mobo-c,Mesa Grande,33.188869,-116.760651,mg,e,33.18869557,-116.7469994
-43,hpwren13_south,33.188,3,-116.761,mg-s-mobo-c,Mesa Grande,33.188869,-116.760651,mg,s,33.16766299,-116.7608921
-44,hpwren13_west,33.188,3,-116.761,mg-w-mobo-c,Mesa Grande,33.188869,-116.760651,mg,w,33.18950737,-116.7939862
-45,hpwren14_north,32.892296,4,-116.420721,ml-n-mobo-c,Mt. Laguna,32.892296,-116.420721,ml,n,32.97931,-116.433837
-46,hpwren14_east,32.892296,4,-116.420721,ml-e-mobo-c,Mt. Laguna,32.892296,-116.420721,ml,e,32.89248153,-116.4178248
-47,hpwren14_south,32.892296,4,-116.420721,ml-s-mobo-c,Mt. Laguna,32.892296,-116.420721,ml,s,32.8913446,-116.4206457
-48,hpwren14_west,32.892296,4,-116.420721,ml-w-mobo-c,Mt. Laguna,32.892296,-116.420721,ml,w,0,0
-49,hpwren15_north,32.8397,4,-116.4265,mlo-n-mobo-c,Mt. Laguna Observatory,32.8397,-116.4265,mlo,n,0,0
-50,hpwren15_east,32.8397,4,-116.4265,mlo-e-mobo-c,Mt. Laguna Observatory,32.8397,-116.4265,mlo,e,32.83965734,-116.4261181
-51,hpwren15_south,32.8397,4,-116.4265,mlo-s-mobo-c,Mt. Laguna Observatory,32.8397,-116.4265,mlo,s,32.83663733,-116.4264453
-52,hpwren15_west,32.8397,4,-116.4265,mlo-w-mobo-c,Mt. Laguna Observatory,32.8397,-116.4265,mlo,w,32.8395472,-116.4293802
-53,hpwren16_north,32.7,1,-116.94,sm-n-mobo-c,Mt. San Miguel,32.69688501,-116.936262,sm,n,32.73789307,-116.9387885
-54,hpwren16_east,32.7,1,-116.94,sm-e-mobo-c,Mt. San Miguel,32.69688501,-116.936262,sm,e,32.69835888,-116.9061565
-55,hpwren16_south,32.7,1,-116.94,sm-s-mobo-c,Mt. San Miguel,32.69688501,-116.936262,sm,s,32.61370029,-116.933834
-56,hpwren16_west,32.7,1,-116.94,sm-w-mobo-c,Mt. San Miguel,32.69688501,-116.936262,sm,w,32.69764572,-116.9976528
-57,hpwren17_north,32.84,2,-117.25,ms-n-mobo-c,Mt. Soledad,32.84,-117.25,ms,n,,
-58,hpwren19_north,33.0087,4,-116.9709,wc-n-mobo-c-deg,Mt. Woodson,33.00873795,-116.9709795,wc,n,33.01771275,-116.9695941
-59,hpwren19_east,33.0087,4,-116.9709,wc-e-mobo-c-deg,Mt. Woodson,33.00873795,-116.9709795,wc,e,33.00711327,-116.9584223
-60,hpwren19_south,33.0087,4,-116.9709,wc-s-mobo-c-deg,Mt. Woodson,33.00873795,-116.9709795,wc,s,0,0
-61,hpwren19_west,33.0087,4,-116.9709,wc-w-mobo-c-deg,Mt. Woodson,33.00873795,-116.9709795,wc,w,33.00904878,-116.9734538
-62,hpwren20_north,32.5948,4,-116.8447,om-n-mobo-c,Otay Mountain,32.59476209,-116.8446941,om,n,32.60237051,-116.844502
-63,hpwren20_east,32.5948,4,-116.8447,om-e-mobo-c,Otay Mountain,32.59476209,-116.8446941,om,e,32.59481057,-116.836819
-64,hpwren20_south,32.5948,4,-116.8447,om-s-mobo-c,Otay Mountain,32.59476209,-116.8446941,om,s,32.59424175,-116.8446861
-65,hpwren20_west,32.5948,4,-116.8447,om-w-mobo-c,Otay Mountain,32.59476209,-116.8446941,om,w,32.59483593,-116.8517775
-66,hpwren21_north,33.4008,4,-117.1905,rm-n-mobo-c,Red Mountain,33.4008,-117.1905,rm,n,33.41066605,-117.1908729
-67,hpwren21_east,33.4008,4,-117.1905,rm-e-mobo-c,Red Mountain,33.4008,-117.1905,rm,e,33.40076747,-117.1862292
-68,hpwren21_south,33.4008,4,-117.1905,rm-s-mobo-c,Red Mountain,33.4008,-117.1905,rm,s,33.39112605,-117.1903989
-69,hpwren21_west,33.4008,4,-117.1905,rm-w-mobo-c,Red Mountain,33.4008,-117.1905,rm,w,33.40058484,-117.2004684
-70,hpwren22_north,33.4314,4,-117.5974,sclm-n-mobo-c,San Clemente,33.4314,-117.5974,sclm,n,33.44314201,-117.5928409
-71,hpwren22_east,33.4314,4,-117.5974,sclm-e-mobo-c,San Clemente,33.4314,-117.5974,sclm,e,33.43119726,-117.5858301
-72,hpwren22_south,33.4314,4,-117.5974,sclm-s-mobo-c,San Clemente,33.4314,-117.5974,sclm,s,33.42991998,-117.5974459
-73,hpwren22_west,33.4314,4,-117.5974,sclm-w-mobo-c,San Clemente,33.4314,-117.5974,sclm,w,33.43994077,-117.6351622
-74,hpwren23_east,32.88,2,-117.24,sdsc-e-mobo-c,San Diego Supercomputer Center,32.88448394,-117.2397484,sdsc,e,,
-75,hpwren24_north,33.5029,4,-117.6031,sjh-n-mobo-c,San Juan Hills,33.5029,-117.6031,sjh,n,,
-76,hpwren24_east,33.5029,4,-117.6031,sjh-e-mobo-c,San Juan Hills,33.5029,-117.6031,sjh,e,,
-77,hpwren24_south,33.5029,4,-117.6031,sjh-s-mobo-c,San Juan Hills,33.5029,-117.6031,sjh,s,,
-78,hpwren24_west,33.5029,4,-117.6031,sjh-w-mobo-c,San Juan Hills,33.5029,-117.6031,sjh,w,,
-79,hpwren25_north,33.13,2,-116.61,vo-n-mobo-c,Santa Ysabel,33.138256,-116.617058,vo,n,,
-80,hpwren25_east,33.13,2,-116.61,vo-e-mobo-c,Santa Ysabel,33.138256,-116.617058,vo,e,,
-81,hpwren25_south,33.13,2,-116.61,vo-s-mobo-c,Santa Ysabel,33.138256,-116.617058,vo,s,,
-82,hpwren25_west,33.13,2,-116.61,vo-w-mobo-c,Santa Ysabel,33.138256,-116.617058,vo,w,,
-83,hpwren26_north,33.6052,4,-117.8109,signal-n-mobo-c,Signal Peak,33.6052,-117.8109,signal,n,,
-84,hpwren26_east,33.6052,4,-117.8109,signal-e-mobo-c,Signal Peak,33.6052,-117.8109,signal,e,,
-85,hpwren26_south,33.6052,4,-117.8109,signal-s-mobo-c,Signal Peak,33.6052,-117.8109,signal,s,,
-86,hpwren26_west,33.6052,4,-117.8109,signal-w-mobo-c,Signal Peak,33.6052,-117.8109,signal,w,,
-87,hpwren27_north,33.3787,4,-116.6223,sojr-n-mobo-c,Sky Oaks,33.3787,-116.6223,sojr,n,,
-88,hpwren27_east,33.3787,4,-116.6223,sojr-e-mobo-c,Sky Oaks,33.3787,-116.6223,sojr,e,,
-89,hpwren27_south,33.3787,4,-116.6223,sojr-s-mobo-c,Sky Oaks,33.3787,-116.6223,sojr,s,,
-90,hpwren27_west,33.3787,4,-116.6223,sojr-w-mobo-c,Sky Oaks,33.3787,-116.6223,sojr,w,,
-91,hpwren28_north,33.5235,4,-116.4257,tp-n-mobo-c,Toro Peak,33.5235,-116.4257,tp,n,,
-92,hpwren28_east,33.5235,4,-116.4257,tp-e-mobo-c,Toro Peak,33.5235,-116.4257,tp,e,,
-93,hpwren28_south,33.5235,4,-116.4257,tp-s-mobo-c,Toro Peak,33.5235,-116.4257,tp,s,,
-94,hpwren28_west,33.5235,4,-116.4257,tp-w-mobo-c,Toro Peak,33.5235,-116.4257,tp,w,,
-95,hpwren29_north,33.6124,4,-117.5486,starr-n-mobo-c,Upper Bell,33.6124,-117.5486,starr,n,,
-96,hpwren29_east,33.6124,4,-117.5486,starr-e-mobo-c,Upper Bell,33.6124,-117.5486,starr,e,,
-97,hpwren29_south,33.6124,4,-117.5486,starr-s-mobo-c,Upper Bell,33.6124,-117.5486,starr,s,,
-98,hpwren29_west,33.6124,4,-117.5486,starr-w-mobo-c,Upper Bell,33.6124,-117.5486,starr,w,,
-99,hpwren30_north,33.5191,4,-117.481,marconi-n-mobo-c,Upper Talega,33.5191,-117.481,marconi,n,,
-100,hpwren30_east,33.5191,4,-117.481,marconi-e-mobo-c,Upper Talega,33.5191,-117.481,marconi,e,,
-101,hpwren30_south,33.5191,4,-117.481,marconi-s-mobo-c,Upper Talega,33.5191,-117.481,marconi,s,,
-102,hpwren30_west,33.5191,4,-117.481,marconi-w-mobo-c,Upper Talega,33.5191,-117.481,marconi,w,,
-1135,hpwren14_south,32.8922,4,-116.4209,lo-s-mobo-c,Mt. Laguna,32.8922,-116.4209,lo,s,,
-1136,hpwren14_west,32.8922,4,-116.4209,lo-w-mobo-c,Mt. Laguna,32.8922,-116.4209,lo,w,,
-1144,hpwren19_east,33.0087,4,-116.9709,mw-e-mobo-c,Mt. Woodson,33.0087,-116.9709,mw,e,,
-1151,hpwren27_north,33.3787,4,-116.6223,so-n-mobo-c,Sky Oaks,33.3787,-116.6223,so,n,,
-1152,hpwren27_south,33.3787,4,-116.6223,so-s-mobo-c,Sky Oaks,33.3787,-116.6223,so,s,,
-1153,hpwren27_west,33.3787,4,-116.6223,so-w-mobo-c,Sky Oaks,33.3787,-116.6223,so,w,,
+,camera_id,lat,lat_decimals,long,camera_name,hpweren_camera_description,lat_adjusted,long_adjusted,code,dir,c_lat,c_long,
+0,hpwren0_unknown direction,32.55,2,-117.12,tje-1-mobo-c,,32.55,-117.12,tje,1,0,0,
+1,hpwren1_north,33.1599,4,-116.8081,bm-n-mobo-c,Big Black Mountain,33.15992464,-116.8080813,bm,n,33.17362597,-116.8112697,
+2,hpwren1_east,33.1599,4,-116.8081,bm-e-mobo-c,Big Black Mountain,33.15992464,-116.8080813,bm,e,33.15878106,-116.7902298,
+3,hpwren1_south,33.1599,4,-116.8081,bm-s-mobo-c,Big Black Mountain,33.15992464,-116.8080813,bm,s,33.15959563,-116.8080615,
+4,hpwren1_west,33.1599,4,-116.8081,bm-w-mobo-c,Big Black Mountain,33.15992464,-116.8080813,bm,w,33.15909112,-116.8587058,
+5,hpwren2_north,32.98,2,-117.12,bl-n-mobo-c,Black Mountain,32.9814172,-117.1164798,bl,n,32.98178813,-117.1165201,
+6,hpwren2_east,32.98,2,-117.12,bl-e-mobo-c,Black Mountain,32.9814172,-117.1164798,bl,e,32.98199379,-117.1111495,
+7,hpwren2_south,32.98,2,-117.12,bl-s-mobo-c,Black Mountain,32.9814172,-117.1164798,bl,s,32.98104323,-117.1163188,
+8,hpwren2_west,32.98,2,-117.12,bl-w-mobo-c,Black Mountain,32.9814172,-117.1164798,bl,w,0,0,
+9,hpwren3_north,33.3346,4,-116.9198,bh-n-mobo-c,Boucher Hill,33.33462774,-116.9193284,bh,n,33.33515112,-116.9193213,
+10,hpwren3_east,33.3346,4,-116.9198,bh-e-mobo-c,Boucher Hill,33.33462774,-116.9193284,bh,e,33.33462443,-116.9187093,
+11,hpwren3_south,33.3346,4,-116.9198,bh-s-mobo-c,Boucher Hill,33.33462774,-116.9193284,bh,s,33.30063393,-116.9211938,
+12,hpwren3_west,33.3346,4,-116.9198,bh-w-mobo-c,Boucher Hill,33.33462774,-116.9193284,bh,w,33.33463517,-116.9199709,
+13,hpwren5_north,33.91,2,-117.74,chino-n-mobo-c,Chino Hills,33.913837,-117.738297,chino,n,33.92261062,-117.7385004,
+14,hpwren5_east,33.91,2,-117.74,chino-e-mobo-c,Chino Hills,33.913837,-117.738297,chino,e,33.91389763,-117.7362709,
+15,hpwren5_south,33.91,2,-117.74,chino-s-mobo-c,Chino Hills,33.913837,-117.738297,chino,s,33.85589999,-117.7378456,
+16,hpwren5_west,33.91,2,-117.74,chino-w-mobo-c,Chino Hills,33.913837,-117.738297,chino,w,33.91387512,-117.7428413,
+17,hpwren6_north,32.95,2,-116.61,cp-n-mobo-c,Cuyamaca Peak,32.94646305,-116.6066707,cp,n,32.95030741,-116.605747,
+18,hpwren6_east,32.95,2,-116.61,cp-e-mobo-c,Cuyamaca Peak,32.94646305,-116.6066707,cp,e,32.94564449,-116.5896901,
+19,hpwren6_south,32.95,2,-116.61,cp-s-mobo-c,Cuyamaca Peak,32.94646305,-116.6066707,cp,s,32.83830709,-116.6094793,
+20,hpwren6_west,32.95,2,-116.61,cp-w-mobo-c,Cuyamaca Peak,32.94646305,-116.6066707,cp,w,32.94623208,-116.638032,
+21,hpwren7_north,34.0864,4,-118.5488,dwpgm-n-mobo-c,Green Peak,34.0864,-118.5488,dwpgm,n,0,0,
+22,hpwren7_east,34.0864,4,-118.5488,dwpgm-e-mobo-c,Green Peak,34.0864,-118.5488,dwpgm,e,0,0,
+23,hpwren7_south,34.0864,4,-118.5488,dwpgm-s-mobo-c,Green Peak,34.0864,-118.5488,dwpgm,s,0,0,
+24,hpwren7_west,34.0864,4,-118.5488,dwpgm-w-mobo-c,Green Peak,34.0864,-118.5488,dwpgm,w,0,0,
+25,hpwren8_north,33.36,2,-116.84,hp-n-mobo-c,High Point,33.363018,-116.83622,hp,n,33.37379901,-116.8351765,
+26,hpwren8_east,33.36,2,-116.84,hp-e-mobo-c,High Point,33.363018,-116.83622,hp,e,33.3635489,-116.8248742,
+27,hpwren8_south,33.36,2,-116.84,hp-s-mobo-c,High Point,33.363018,-116.83622,hp,s,33.32595408,-116.8370067,
+28,hpwren8_west,33.36,2,-116.84,hp-w-mobo-c,High Point,33.363018,-116.83622,hp,w,33.36309629,-116.8375149,
+29,hpwren9_north,34.07,2,-118.63,69bravo-n-mobo-c,L.A.Co.F.D Helibase 69 Bravo,34.07463206,-118.6278559,69bravo,n,34.07533903,-118.6277847,
+30,hpwren9_east,34.07,2,-118.63,69bravo-e-mobo-c,L.A.Co.F.D Helibase 69 Bravo,34.07463206,-118.6278559,69bravo,e,34.07441106,-118.6258859,
+31,hpwren9_south,34.07,2,-118.63,69bravo-s-mobo-c,L.A.Co.F.D Helibase 69 Bravo,34.07463206,-118.6278559,69bravo,s,34.07342081,-118.6279447,
+32,hpwren9_west,34.07,2,-118.63,69bravo-w-mobo-c,L.A.Co.F.D Helibase 69 Bravo,34.07463206,-118.6278559,69bravo,w,34.07480804,-118.6296654,
+33,hpwren11_north,32.73,2,-116.58,pi-n-mobo-c,Los Pinos,32.73451582,-116.5776585,pi,n,32.73496385,-116.5776905,
+34,hpwren11_east,32.73,2,-116.58,pi-e-mobo-c,Los Pinos,32.73451582,-116.5776585,pi,e,32.7345954,-116.5755122,
+35,hpwren11_south,32.73,2,-116.58,pi-s-mobo-c,Los Pinos,32.73451582,-116.5776585,pi,s,32.73237726,-116.5775055,
+36,hpwren11_west,32.73,2,-116.58,pi-w-mobo-c,Los Pinos,32.73451582,-116.5776585,pi,w,32.73446656,-116.5809434,
+37,hpwren12_north,32.7015,4,-116.7646,lp-n-mobo-c,Lyons Peak,32.7015,-116.7646,lp,n,32.70274532,-116.7645596,
+38,hpwren12_east,32.7015,4,-116.7646,lp-e-mobo-c,Lyons Peak,32.7015,-116.7646,lp,e,32.70151604,-116.754257,
+39,hpwren12_south,32.7015,4,-116.7646,lp-s-mobo-c,Lyons Peak,32.7015,-116.7646,lp,s,32.69084469,-116.7645718,
+40,hpwren12_west,32.7015,4,-116.7646,lp-w-mobo-c,Lyons Peak,32.7015,-116.7646,lp,w,0,0,
+41,hpwren13_north,33.188,3,-116.761,mg-n-mobo-c,Mesa Grande,33.188869,-116.760651,mg,n,33.2059384,-116.7609237,
+42,hpwren13_east,33.188,3,-116.761,mg-e-mobo-c,Mesa Grande,33.188869,-116.760651,mg,e,33.18869557,-116.7469994,
+43,hpwren13_south,33.188,3,-116.761,mg-s-mobo-c,Mesa Grande,33.188869,-116.760651,mg,s,33.16766299,-116.7608921,
+44,hpwren13_west,33.188,3,-116.761,mg-w-mobo-c,Mesa Grande,33.188869,-116.760651,mg,w,33.18950737,-116.7939862,
+45,hpwren14_north,32.892296,4,-116.420721,ml-n-mobo-c,Mt. Laguna,32.892296,-116.420721,ml,n,32.97931,-116.433837,
+46,hpwren14_east,32.892296,4,-116.420721,ml-e-mobo-c,Mt. Laguna,32.892296,-116.420721,ml,e,32.89248153,-116.4178248,
+47,hpwren14_south,32.892296,4,-116.420721,ml-s-mobo-c,Mt. Laguna,32.892296,-116.420721,ml,s,32.8913446,-116.4206457,
+48,hpwren14_west,32.892296,4,-116.420721,ml-w-mobo-c,Mt. Laguna,32.892296,-116.420721,ml,w,0,0,
+49,hpwren15_north,32.8397,4,-116.4265,mlo-n-mobo-c,Mt. Laguna Observatory,32.8397,-116.4265,mlo,n,0,0,
+50,hpwren15_east,32.8397,4,-116.4265,mlo-e-mobo-c,Mt. Laguna Observatory,32.8397,-116.4265,mlo,e,32.83965734,-116.4261181,
+51,hpwren15_south,32.8397,4,-116.4265,mlo-s-mobo-c,Mt. Laguna Observatory,32.8397,-116.4265,mlo,s,32.83663733,-116.4264453,
+52,hpwren15_west,32.8397,4,-116.4265,mlo-w-mobo-c,Mt. Laguna Observatory,32.8397,-116.4265,mlo,w,32.8395472,-116.4293802,
+53,hpwren16_north,32.7,1,-116.94,sm-n-mobo-c,Mt. San Miguel,32.69688501,-116.936262,sm,n,32.73789307,-116.9387885,
+54,hpwren16_east,32.7,1,-116.94,sm-e-mobo-c,Mt. San Miguel,32.69688501,-116.936262,sm,e,32.69835888,-116.9061565,
+55,hpwren16_south,32.7,1,-116.94,sm-s-mobo-c,Mt. San Miguel,32.69688501,-116.936262,sm,s,32.61370029,-116.933834,
+56,hpwren16_west,32.7,1,-116.94,sm-w-mobo-c,Mt. San Miguel,32.69688501,-116.936262,sm,w,32.69764572,-116.9976528,
+57,hpwren17_north,32.84,2,-117.25,ms-n-mobo-c,Mt. Soledad,32.84,-117.25,ms,n,,,
+58,hpwren19_north,33.0087,4,-116.9709,wc-n-mobo-c-deg,Mt. Woodson,33.00873795,-116.9709795,wc,n,33.01771275,-116.9695941,
+59,hpwren19_east,33.0087,4,-116.9709,wc-e-mobo-c-deg,Mt. Woodson,33.00873795,-116.9709795,wc,e,33.00711327,-116.9584223,
+60,hpwren19_south,33.0087,4,-116.9709,wc-s-mobo-c-deg,Mt. Woodson,33.00873795,-116.9709795,wc,s,0,0,
+61,hpwren19_west,33.0087,4,-116.9709,wc-w-mobo-c-deg,Mt. Woodson,33.00873795,-116.9709795,wc,w,33.00904878,-116.9734538,
+62,hpwren20_north,32.5948,4,-116.8447,om-n-mobo-c,Otay Mountain,32.59476209,-116.8446941,om,n,32.60237051,-116.844502,
+63,hpwren20_east,32.5948,4,-116.8447,om-e-mobo-c,Otay Mountain,32.59476209,-116.8446941,om,e,32.59481057,-116.836819,
+64,hpwren20_south,32.5948,4,-116.8447,om-s-mobo-c,Otay Mountain,32.59476209,-116.8446941,om,s,32.59424175,-116.8446861,
+65,hpwren20_west,32.5948,4,-116.8447,om-w-mobo-c,Otay Mountain,32.59476209,-116.8446941,om,w,32.59483593,-116.8517775,
+66,hpwren21_north,33.4008,4,-117.1905,rm-n-mobo-c,Red Mountain,33.4008,-117.1905,rm,n,33.41066605,-117.1908729,
+67,hpwren21_east,33.4008,4,-117.1905,rm-e-mobo-c,Red Mountain,33.4008,-117.1905,rm,e,33.40076747,-117.1862292,
+68,hpwren21_south,33.4008,4,-117.1905,rm-s-mobo-c,Red Mountain,33.4008,-117.1905,rm,s,33.39112605,-117.1903989,
+69,hpwren21_west,33.4008,4,-117.1905,rm-w-mobo-c,Red Mountain,33.4008,-117.1905,rm,w,33.40058484,-117.2004684,
+70,hpwren22_north,33.4314,4,-117.5974,sclm-n-mobo-c,San Clemente,33.4314,-117.5974,sclm,n,33.44314201,-117.5928409,
+71,hpwren22_east,33.4314,4,-117.5974,sclm-e-mobo-c,San Clemente,33.4314,-117.5974,sclm,e,33.43119726,-117.5858301,
+72,hpwren22_south,33.4314,4,-117.5974,sclm-s-mobo-c,San Clemente,33.4314,-117.5974,sclm,s,33.42991998,-117.5974459,
+73,hpwren22_west,33.4314,4,-117.5974,sclm-w-mobo-c,San Clemente,33.4314,-117.5974,sclm,w,33.43994077,-117.6351622,
+74,hpwren23_east,32.88,2,-117.24,sdsc-e-mobo-c,San Diego Supercomputer Center,32.88448394,-117.2397484,sdsc,e,,,
+75,hpwren24_north,33.5029,4,-117.6031,sjh-n-mobo-c,San Juan Hills,33.50294205,-117.6031176,sjh,n,33.50959831,-117.6028375,
+76,hpwren24_east,33.5029,4,-117.6031,sjh-e-mobo-c,San Juan Hills,33.50294205,-117.6031176,sjh,e,33.50292756,-117.5999521,
+77,hpwren24_south,33.5029,4,-117.6031,sjh-s-mobo-c,San Juan Hills,33.50294205,-117.6031176,sjh,s,33.50186448,-117.6031684,
+78,hpwren24_west,33.5029,4,-117.6031,sjh-w-mobo-c,San Juan Hills,33.50294205,-117.6031176,sjh,w,33.50309263,-117.6246855,
+79,hpwren25_north,33.13,2,-116.61,vo-n-mobo-c,Santa Ysabel,33.138256,-116.617058,vo,n,0,0,
+80,hpwren25_east,33.13,2,-116.61,vo-e-mobo-c,Santa Ysabel,33.138256,-116.617058,vo,e,0,0,
+81,hpwren25_south,33.13,2,-116.61,vo-s-mobo-c,Santa Ysabel,33.138256,-116.617058,vo,s,0,0,
+82,hpwren25_west,33.13,2,-116.61,vo-w-mobo-c,Santa Ysabel,33.138256,-116.617058,vo,w,0,0,
+83,hpwren26_north,33.6052,4,-117.8109,signal-n-mobo-c,Signal Peak,33.60523424,-117.810884,signal,n,33.60613199,-117.8109116,
+84,hpwren26_east,33.6052,4,-117.8109,signal-e-mobo-c,Signal Peak,33.60523424,-117.810884,signal,e,33.60532268,-117.8085619,
+85,hpwren26_south,33.6052,4,-117.8109,signal-s-mobo-c,Signal Peak,33.60523424,-117.810884,signal,s,33.60423073,-117.810847,
+86,hpwren26_west,33.6052,4,-117.8109,signal-w-mobo-c,Signal Peak,33.60523424,-117.810884,signal,w,33.60523689,-117.8145783,
+87,hpwren27_north,33.3787,4,-116.6223,sojr-n-mobo-c,Sky Oaks,33.37865603,-116.6222928,sojr,n,33.38598819,-116.6225236,unsure
+88,hpwren27_east,33.3787,4,-116.6223,sojr-e-mobo-c,Sky Oaks,33.37865603,-116.6222928,sojr,e,0,0,
+89,hpwren27_south,33.3787,4,-116.6223,sojr-s-mobo-c,Sky Oaks,33.37865603,-116.6222928,sojr,s,33.37452052,-116.6221394,
+90,hpwren27_west,33.3787,4,-116.6223,sojr-w-mobo-c,Sky Oaks,33.37865603,-116.6222928,sojr,w,0,0,
+91,hpwren28_north,33.5235,4,-116.4257,tp-n-mobo-c,Toro Peak,33.5235,-116.4257,tp,n,0,0,
+92,hpwren28_east,33.5235,4,-116.4257,tp-e-mobo-c,Toro Peak,33.5235,-116.4257,tp,e,0,0,
+93,hpwren28_south,33.5235,4,-116.4257,tp-s-mobo-c,Toro Peak,33.5235,-116.4257,tp,s,0,0,
+94,hpwren28_west,33.5235,4,-116.4257,tp-w-mobo-c,Toro Peak,33.5235,-116.4257,tp,w,0,0,
+95,hpwren29_north,33.6124,4,-117.5486,starr-n-mobo-c,Upper Bell,33.6124,-117.5486,starr,n,0,0,
+96,hpwren29_east,33.6124,4,-117.5486,starr-e-mobo-c,Upper Bell,33.6124,-117.5486,starr,e,0,0,
+97,hpwren29_south,33.6124,4,-117.5486,starr-s-mobo-c,Upper Bell,33.6124,-117.5486,starr,s,0,0,
+98,hpwren29_west,33.6124,4,-117.5486,starr-w-mobo-c,Upper Bell,33.6124,-117.5486,starr,w,0,0,
+99,hpwren30_north,33.5191,4,-117.481,marconi-n-mobo-c,Upper Talega,33.5191,-117.481,marconi,n,0,0,
+100,hpwren30_east,33.5191,4,-117.481,marconi-e-mobo-c,Upper Talega,33.5191,-117.481,marconi,e,0,0,
+101,hpwren30_south,33.5191,4,-117.481,marconi-s-mobo-c,Upper Talega,33.5191,-117.481,marconi,s,0,0,
+102,hpwren30_west,33.5191,4,-117.481,marconi-w-mobo-c,Upper Talega,33.5191,-117.481,marconi,w,0,0,
