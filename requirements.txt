@@ -16,6 +16,7 @@ click==8.1.2
 click-plugins==1.1.1
 cligj==0.7.2
 cramjam==2.5.0
+cycler==0.11.0
 debugpy==1.6.0
 decorator==5.1.1
 defusedxml==0.7.1
@@ -24,6 +25,7 @@ executing==0.8.3
 fastjsonschema==2.15.3
 fastparquet==0.8.1
 Fiona==1.8.21
+fonttools==4.33.3
 fsspec==2022.3.0
 geopandas==0.10.2
 idna==3.3
@@ -47,8 +49,10 @@ jupyterlab-pygments==0.2.2
 jupyterlab-server==2.13.0
 jupyterlab-widgets==1.1.0
 jupytext==1.13.8
+kiwisolver==1.4.2
 markdown-it-py==2.1.0
 MarkupSafe==2.1.1
+matplotlib==3.5.1
 matplotlib-inline==0.1.3
 mdit-py-plugins==0.3.0
 mdurl==0.1.1
@@ -70,6 +74,7 @@ parso==0.8.3
 pathspec==0.9.0
 pexpect==4.8.0
 pickleshare==0.7.5
+Pillow==9.1.0
 platformdirs==2.5.2
 prometheus-client==0.14.1
 prompt-toolkit==3.0.29
