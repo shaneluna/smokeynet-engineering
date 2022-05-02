@@ -133,3 +133,6 @@ dmypy.json
 
 # Configs
 config.json
+
+# Large files
+/data/raw/weather_sdge*.csv*
