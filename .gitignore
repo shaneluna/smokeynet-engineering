@@ -135,4 +135,6 @@ dmypy.json
 config.json
 
 # Large files
-/data/raw/weather_sdge*.csv*
+/data/raw/weather_SDGE*.csv*
+/data/raw/weather_HPWREN*.csv*
+/data/raw/weather_SC-EDISON*.csv*
