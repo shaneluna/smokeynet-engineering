@@ -8,14 +8,14 @@ hpwren2_north,,,,32.9814172,-117.1164798,,2048,1536
 hpwren2_east,,,,32.9814172,-117.1164798,,2048,1536
 hpwren2_south,,,,32.9814172,-117.1164798,,2048,1536
 hpwren2_west,,,,32.9814172,-117.1164798,,2048,1536
-,buff-n-mobo-c,Buffalo Bump,north,33.42835888,-117.3825282,2896,3072,2048
-,buff-e-mobo-c,Buffalo Bump,east,33.42835888,-117.3825282,2896,3072,2048
-,buff-s-mobo-c,Buffalo Bump,south,33.42835888,-117.3825282,2896,3072,2048
-,buff-w-mobo-c,Buffalo Bump,west,33.42835888,-117.3825282,2896,3072,2048
-,ch-n-mobo-c,Coronado Hills,north,33.11062723,-117.1529606,1600,3072,2048
-,ch-e-mobo-c,Coronado Hills,east,33.11062723,-117.1529606,1600,3072,2048
-,ch-s-mobo-c,Coronado Hills,south,33.11062723,-117.1529606,1600,3072,2048
-,ch-w-mobo-c,Coronado Hills,west,33.11062723,-117.1529606,1600,3072,2048
+hpwren_missing1_west,buff-n-mobo-c,Buffalo Bump,north,33.42835888,-117.3825282,2896,3072,2048
+hpwren_missing1_west,buff-e-mobo-c,Buffalo Bump,east,33.42835888,-117.3825282,2896,3072,2048
+hpwren_missing1_west,buff-s-mobo-c,Buffalo Bump,south,33.42835888,-117.3825282,2896,3072,2048
+hpwren_missing1_west,buff-w-mobo-c,Buffalo Bump,west,33.42835888,-117.3825282,2896,3072,2048
+hpwren_missing2_west,ch-n-mobo-c,Coronado Hills,north,33.11062723,-117.1529606,1600,3072,2048
+hpwren_missing2_west,ch-e-mobo-c,Coronado Hills,east,33.11062723,-117.1529606,1600,3072,2048
+hpwren_missing2_west,ch-s-mobo-c,Coronado Hills,south,33.11062723,-117.1529606,1600,3072,2048
+hpwren_missing2_west,ch-w-mobo-c,Coronado Hills,west,33.11062723,-117.1529606,1600,3072,2048
 hpwren3_north,,,,33.33462774,-116.9193284,,3072,2048
 hpwren3_east,,,,33.33462774,-116.9193284,,3072,2048
 hpwren3_south,,,,33.33462774,-116.9193284,,3072,2048
@@ -81,10 +81,10 @@ hpwren21_north,,,,,,,3072,2048
 hpwren21_east,,,,,,,3072,2048
 hpwren21_south,,,,,,,3072,2048
 hpwren21_west,,,,,,,3072,2048
-,rdd-n-mobo-c,Rincon Del Diablo,north,33.09383414,-117.1210542,925,3072,2048
-,rdd-e-mobo-c,Rincon Del Diablo,east,33.09383414,-117.1210542,925,3072,2048
-,rdd-s-mobo-c,Rincon Del Diablo,south,33.09383414,-117.1210542,925,3072,2048
-,rdd-w-mobo-c,Rincon Del Diablo,west,33.09383414,-117.1210542,925,3072,2048
+hpwren_missing3_west,rdd-n-mobo-c,Rincon Del Diablo,north,33.09383414,-117.1210542,925,3072,2048
+hpwren_missing3_west,rdd-e-mobo-c,Rincon Del Diablo,east,33.09383414,-117.1210542,925,3072,2048
+hpwren_missing3_west,rdd-s-mobo-c,Rincon Del Diablo,south,33.09383414,-117.1210542,925,3072,2048
+hpwren_missing3_west,rdd-w-mobo-c,Rincon Del Diablo,west,33.09383414,-117.1210542,925,3072,2048
 hpwren22_north,,,,33.43141853,-117.5973412,,3072,2048
 hpwren22_east,,,,33.43141853,-117.5973412,,3072,2048
 hpwren22_south,,,,33.43141853,-117.5973412,,3072,2048
@@ -98,14 +98,14 @@ hpwren25_north,,,,33.13826401,-116.6170953,,3072,2048
 hpwren25_east,,,,33.13826401,-116.6170953,,3072,2048
 hpwren25_south,,,,33.13826401,-116.6170953,,3072,2048
 hpwren25_west,,,,33.13826401,-116.6170953,,3072,2048
-,syp-n-mobo-c,Santa Ynez Peak,north,34.52711299,-119.9789239,4297,3072,2048
-,syp-e-mobo-c,Santa Ynez Peak,east,34.52711299,-119.9789239,4297,3072,2048
-,syp-s-mobo-c,Santa Ynez Peak,south,34.52711299,-119.9789239,4297,3072,2048
-,syp-w-mobo-c,Santa Ynez Peak,west,34.52711299,-119.9789239,4297,3072,2048
-,stgo-n-mobo-c,Santiago Peak,north,33.71117247,-117.534115,5669,3072,2048
-,stgo-e-mobo-c,Santiago Peak,east,33.71117247,-117.534115,5669,3072,2048
-,stgo-s-mobo-c,Santiago Peak,south,33.71117247,-117.534115,5669,3072,2048
-,stgo-w-mobo-c,Santiago Peak,west,33.71117247,-117.534115,5669,3072,2048
+hpwren_missing4_west,syp-n-mobo-c,Santa Ynez Peak,north,34.52711299,-119.9789239,4297,3072,2048
+hpwren_missing4_west,syp-e-mobo-c,Santa Ynez Peak,east,34.52711299,-119.9789239,4297,3072,2048
+hpwren_missing4_west,syp-s-mobo-c,Santa Ynez Peak,south,34.52711299,-119.9789239,4297,3072,2048
+hpwren_missing4_west,syp-w-mobo-c,Santa Ynez Peak,west,34.52711299,-119.9789239,4297,3072,2048
+hpwren_missing5_west,stgo-n-mobo-c,Santiago Peak,north,33.71117247,-117.534115,5669,3072,2048
+hpwren_missing5_west,stgo-e-mobo-c,Santiago Peak,east,33.71117247,-117.534115,5669,3072,2048
+hpwren_missing5_west,stgo-s-mobo-c,Santiago Peak,south,33.71117247,-117.534115,5669,3072,2048
+hpwren_missing5_west,stgo-w-mobo-c,Santiago Peak,west,33.71117247,-117.534115,5669,3072,2048
 hpwren26_north,,,,33.60523424,-117.810884,,3072,2048
 hpwren26_east,,,,33.60523424,-117.810884,,3072,2048
 hpwren26_south,,,,33.60523424,-117.810884,,3072,2048
@@ -126,7 +126,7 @@ hpwren30_north,,,,33.51912725,-117.480907,,3072,2048
 hpwren30_east,,,,33.51912725,-117.480907,,3072,2048
 hpwren30_south,,,,33.51912725,-117.480907,,3072,2048
 hpwren30_west,,,,33.51912725,-117.480907,,3072,2048
-,ws-n-mobo-c,White Star,north,32.647266,-116.318014,4000,3072,2048
-,ws-e-mobo-c,White Star,east,32.647266,-116.318014,4000,3072,2048
-,ws-s-mobo-c,White Star,south,32.647266,-116.318014,4000,3072,2048
-,ws-w-mobo-c,White Star,west,32.647266,-116.318014,4000,3072,2048
+hpwren_missing6_west,ws-n-mobo-c,White Star,north,32.647266,-116.318014,4000,3072,2048
+hpwren_missing6_west,ws-e-mobo-c,White Star,east,32.647266,-116.318014,4000,3072,2048
+hpwren_missing6_west,ws-s-mobo-c,White Star,south,32.647266,-116.318014,4000,3072,2048
+hpwren_missing6_west,ws-w-mobo-c,White Star,west,32.647266,-116.318014,4000,3072,2048
