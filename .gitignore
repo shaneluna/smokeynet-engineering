@@ -131,4 +131,13 @@ dmypy.json
 # Mac
 .DS_Store
 
-# Ignore uncompressed data
+# Configs
+config.json
+
+# Large files
+/data/raw/weather_SDGE*.csv*
+/data/raw/weather_HPWREN*.csv*
+/data/raw/weather_SC-EDISON*.csv*
+/data/processed/weather_SDGE*.csv*
+/data/processed/weather_HPWREN*.csv*
+/data/processed/weather_SC-EDISON*.csv*
