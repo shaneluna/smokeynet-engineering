@@ -1,132 +1,132 @@
-camera_id,direction,camera_name,image_id,long,lat,elevation,geometry.type,geometry.coordinates,x_resolution_manual,y_resolution_manual,properties.description.url
-hpwren0_unknown direction,unknown direction,,tje-1-mobo-c,-117.12,32.55,10.0,Point,"[-117.12, 32.55, 10]",,,http://hpwren.ucsd.edu/cameras/TJE.html
-hpwren1_north,north,Big Black Mountain,bm-n-mobo-c,-116.8080915,33.15992729,4055.0,Point,"[-116.8081, 33.1599, 4055]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/BBlackMtn.html
-hpwren1_east,east,Big Black Mountain,bm-e-mobo-c,-116.8080915,33.15992729,4055.0,Point,"[-116.8081, 33.1599, 4055]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/BBlackMtn.html
-hpwren1_south,south,Big Black Mountain,bm-s-mobo-c,-116.8080915,33.15992729,4055.0,Point,"[-116.8081, 33.1599, 4055]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/BBlackMtn.html
-hpwren1_west,west,Big Black Mountain,bm-w-mobo-c,-116.8080915,33.15992729,4055.0,Point,"[-116.8081, 33.1599, 4055]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/BBlackMtn.html
-hpwren2_north,north,Black Mountain,bl-n-mobo-c,-117.1164798,32.9814172,1600.0,Point,"[-117.12, 32.98, 1600]",2048.0,1536.0,http://hpwren.ucsd.edu/cameras/BL.html
-hpwren2_east,east,Black Mountain,bl-e-mobo-c,-117.1164798,32.9814172,1600.0,Point,"[-117.12, 32.98, 1600]",2048.0,1536.0,http://hpwren.ucsd.edu/cameras/BL.html
-hpwren2_south,south,Black Mountain,bl-s-mobo-c,-117.1164798,32.9814172,1600.0,Point,"[-117.12, 32.98, 1600]",2048.0,1536.0,http://hpwren.ucsd.edu/cameras/BL.html
-hpwren2_west,west,Black Mountain,bl-w-mobo-c,-117.1164798,32.9814172,1600.0,Point,"[-117.12, 32.98, 1600]",2048.0,1536.0,http://hpwren.ucsd.edu/cameras/BL.html
-hpwren3_north,north,Boucher Hill,bh-n-mobo-c,-116.9193284,33.33462774,5500.0,Point,"[-116.9198, 33.3346, 5500]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/BH.html
-hpwren3_east,east,Boucher Hill,bh-e-mobo-c,-116.9193284,33.33462774,5500.0,Point,"[-116.9198, 33.3346, 5500]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/BH.html
-hpwren3_south,south,Boucher Hill,bh-s-mobo-c,-116.9193284,33.33462774,5500.0,Point,"[-116.9198, 33.3346, 5500]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/BH.html
-hpwren3_west,west,Boucher Hill,bh-w-mobo-c,-116.9193284,33.33462774,5500.0,Point,"[-116.9198, 33.3346, 5500]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/BH.html
-hpwren5_north,north,Chino Hills,chino-n-mobo-c,-117.738297,33.913837,1780.0,Point,"[-117.74, 33.91, 1780]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/chino.html
-hpwren5_east,east,Chino Hills,chino-e-mobo-c,-117.738297,33.913837,1780.0,Point,"[-117.74, 33.91, 1780]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/chino.html
-hpwren5_south,south,Chino Hills,chino-s-mobo-c,-117.738297,33.913837,1780.0,Point,"[-117.74, 33.91, 1780]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/chino.html
-hpwren5_west,west,Chino Hills,chino-w-mobo-c,-117.738297,33.913837,1780.0,Point,"[-117.74, 33.91, 1780]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/chino.html
-hpwren6_north,north,Cuyamaca Peak,cp-n-mobo-c,-116.6066707,32.94646305,6500.0,Point,"[-116.61, 32.95, 6500]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/CP.html
-hpwren6_east,east,Cuyamaca Peak,cp-e-mobo-c,-116.6066707,32.94646305,6500.0,Point,"[-116.61, 32.95, 6500]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/CP.html
-hpwren6_south,south,Cuyamaca Peak,cp-s-mobo-c,-116.6066707,32.94646305,6500.0,Point,"[-116.61, 32.95, 6500]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/CP.html
-hpwren6_west,west,Cuyamaca Peak,cp-w-mobo-c,-116.6066707,32.94646305,6500.0,Point,"[-116.61, 32.95, 6500]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/CP.html
-hpwren7_north,north,Green Peak,dwpgm-n-mobo-c,-118.5487598,34.08640497,1760.0,Point,"[-118.5488, 34.0864, 1760]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/dwpgm.html
-hpwren7_east,east,Green Peak,dwpgm-e-mobo-c,-118.5487598,34.08640497,1760.0,Point,"[-118.5488, 34.0864, 1760]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/dwpgm.html
-hpwren7_south,south,Green Peak,dwpgm-s-mobo-c,-118.5487598,34.08640497,1760.0,Point,"[-118.5488, 34.0864, 1760]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/dwpgm.html
-hpwren7_west,west,Green Peak,dwpgm-w-mobo-c,-118.5487598,34.08640497,1760.0,Point,"[-118.5488, 34.0864, 1760]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/dwpgm.html
-hpwren8_north,north,High Point,hp-n-mobo-c,-116.83622,33.363018,6180.0,Point,"[-116.84, 33.36, 6180]",2048.0,1536.0,http://hpwren.ucsd.edu/cameras/HighPoint.html
-hpwren8_east,east,High Point,hp-e-mobo-c,-116.83622,33.363018,6180.0,Point,"[-116.84, 33.36, 6180]",2048.0,1536.0,http://hpwren.ucsd.edu/cameras/HighPoint.html
-hpwren8_south,south,High Point,hp-s-mobo-c,-116.83622,33.363018,6180.0,Point,"[-116.84, 33.36, 6180]",2048.0,1536.0,http://hpwren.ucsd.edu/cameras/HighPoint.html
-hpwren8_west,west,High Point,hp-w-mobo-c,-116.83622,33.363018,6180.0,Point,"[-116.84, 33.36, 6180]",2048.0,1536.0,http://hpwren.ucsd.edu/cameras/HighPoint.html
-hpwren9_north,north,L.A.Co.F.D Helibase 69 Bravo,69bravo-n-mobo-c,-118.6278559,34.07463206,2480.0,Point,"[-118.63, 34.07, 2480]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/69bravo.html
-hpwren9_east,east,L.A.Co.F.D Helibase 69 Bravo,69bravo-e-mobo-c,-118.6278559,34.07463206,2480.0,Point,"[-118.63, 34.07, 2480]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/69bravo.html
-hpwren9_south,south,L.A.Co.F.D Helibase 69 Bravo,69bravo-s-mobo-c,-118.6278559,34.07463206,2480.0,Point,"[-118.63, 34.07, 2480]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/69bravo.html
-hpwren9_west,west,L.A.Co.F.D Helibase 69 Bravo,69bravo-w-mobo-c,-118.6278559,34.07463206,2480.0,Point,"[-118.63, 34.07, 2480]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/69bravo.html
-hpwren11_north,north,Los Pinos,pi-n-mobo-c,-116.5776585,32.73451582,4800.0,Point,"[-116.58, 32.73, 4800]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/LosPinos.html
-hpwren11_east,east,Los Pinos,pi-e-mobo-c,-116.5776585,32.73451582,4800.0,Point,"[-116.58, 32.73, 4800]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/LosPinos.html
-hpwren11_south,south,Los Pinos,pi-s-mobo-c,-116.5776585,32.73451582,4800.0,Point,"[-116.58, 32.73, 4800]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/LosPinos.html
-hpwren11_west,west,Los Pinos,pi-w-mobo-c,-116.5776585,32.73451582,4800.0,Point,"[-116.58, 32.73, 4800]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/LosPinos.html
-hpwren12_north,north,Lyons Peak,lp-n-mobo-c,-116.7645606,32.70151745,3700.0,Point,"[-116.7646, 32.7015, 3700]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/LP.html
-hpwren12_east,east,Lyons Peak,lp-e-mobo-c,-116.7645606,32.70151745,3700.0,Point,"[-116.7646, 32.7015, 3700]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/LP.html
-hpwren12_south,south,Lyons Peak,lp-s-mobo-c,-116.7645606,32.70151745,3700.0,Point,"[-116.7646, 32.7015, 3700]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/LP.html
-hpwren12_west,west,Lyons Peak,lp-w-mobo-c,-116.7645606,32.70151745,3700.0,Point,"[-116.7646, 32.7015, 3700]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/LP.html
-hpwren13_north,north,Mesa Grande,mg-n-mobo-c,-116.7606591,33.18885764,4280.0,Point,"[-116.761, 33.188, 4280]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/MG.html
-hpwren13_east,east,Mesa Grande,mg-e-mobo-c,-116.7606591,33.18885764,4280.0,Point,"[-116.761, 33.188, 4280]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/MG.html
-hpwren13_south,south,Mesa Grande,mg-s-mobo-c,-116.7606591,33.18885764,4280.0,Point,"[-116.761, 33.188, 4280]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/MG.html
-hpwren13_west,west,Mesa Grande,mg-w-mobo-c,-116.7606591,33.18885764,4280.0,Point,"[-116.761, 33.188, 4280]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/MG.html
-hpwren14_north,north,Mt. Laguna,ml-n-mobo-c,-116.420721,32.892296,6300.0,Point,"[-116.4209, 32.8922, 6300]",2048.0,1536.0,http://hpwren.ucsd.edu/cameras/MtLaguna.html
-hpwren14_east,east,Mt. Laguna,ml-e-mobo-c,-116.420721,32.892296,6300.0,Point,"[-116.4209, 32.8922, 6300]",2048.0,1536.0,http://hpwren.ucsd.edu/cameras/MtLaguna.html
-hpwren14_south,south,Mt. Laguna,ml-s-mobo-c,-116.420721,32.892296,6300.0,Point,"[-116.4209, 32.8922, 6300]",2048.0,1536.0,http://hpwren.ucsd.edu/cameras/MtLaguna.html
-hpwren14_west,west,Mt. Laguna,ml-w-mobo-c,-116.420721,32.892296,6300.0,Point,"[-116.4209, 32.8922, 6300]",2048.0,1536.0,http://hpwren.ucsd.edu/cameras/MtLaguna.html
-hpwren15_north,north,Mt. Laguna Observatory,mlo-n-mobo-c,-116.4265161,32.83967399,6180.0,Point,"[-116.4265, 32.8397, 6180]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/MLO.html
-hpwren15_east,east,Mt. Laguna Observatory,mlo-e-mobo-c,-116.4265161,32.83967399,6180.0,Point,"[-116.4265, 32.8397, 6180]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/MLO.html
-hpwren15_south,south,Mt. Laguna Observatory,mlo-s-mobo-c,-116.4265161,32.83967399,6180.0,Point,"[-116.4265, 32.8397, 6180]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/MLO.html
-hpwren15_west,west,Mt. Laguna Observatory,mlo-w-mobo-c,-116.4265161,32.83967399,6180.0,Point,"[-116.4265, 32.8397, 6180]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/MLO.html
-hpwren16_north,north,Mt. San Miguel,sm-n-mobo-c,-116.936262,32.69688501,2550.0,Point,"[-116.94, 32.7, 2550]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/SM.html
-hpwren16_east,east,Mt. San Miguel,sm-e-mobo-c,-116.936262,32.69688501,2550.0,Point,"[-116.94, 32.7, 2550]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/SM.html
-hpwren16_south,south,Mt. San Miguel,sm-s-mobo-c,-116.936262,32.69688501,2550.0,Point,"[-116.94, 32.7, 2550]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/SM.html
-hpwren16_west,west,Mt. San Miguel,sm-w-mobo-c,-116.936262,32.69688501,2550.0,Point,"[-116.94, 32.7, 2550]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/SM.html
-hpwren17_north,north,Mt. Soledad,ms-n-mobo-c,-117.2485966,32.83992291,730.0,Point,"[-117.25, 32.84, 730]",2048.0,1536.0,http://hpwren.ucsd.edu/cameras/ms-n-mobo.html
-hpwren19_north,north,Mt. Woodson,wc-n-mobo-c-deg,-116.9709795,33.00873795,2800.0,Point,"[-116.9709, 33.0087, 2800]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/MW-wc.html
-hpwren19_east,east,Mt. Woodson,wc-e-mobo-c-deg,-116.9709795,33.00873795,2800.0,Point,"[-116.9709, 33.0087, 2800]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/MW-wc.html
-hpwren19_south,south,Mt. Woodson,wc-s-mobo-c-deg,-116.9709795,33.00873795,2800.0,Point,"[-116.9709, 33.0087, 2800]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/MW-wc.html
-hpwren19_west,west,Mt. Woodson,wc-w-mobo-c-deg,-116.9709795,33.00873795,2800.0,Point,"[-116.9709, 33.0087, 2800]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/MW-wc.html
-hpwren20_north,north,Otay Mountain,om-n-mobo-c,-116.8446941,32.59476209,3565.0,Point,"[-116.8447, 32.5948, 3565]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/OM.html
-hpwren20_east,east,Otay Mountain,om-e-mobo-c,-116.8446941,32.59476209,3565.0,Point,"[-116.8447, 32.5948, 3565]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/OM.html
-hpwren20_south,south,Otay Mountain,om-s-mobo-c,-116.8446941,32.59476209,3565.0,Point,"[-116.8447, 32.5948, 3565]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/OM.html
-hpwren20_west,west,Otay Mountain,om-w-mobo-c,-116.8446941,32.59476209,3565.0,Point,"[-116.8447, 32.5948, 3565]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/OM.html
-hpwren21_north,north,Red Mountain,rm-n-mobo-c,-117.1905,33.4008,1600.0,Point,"[-117.1905, 33.4008, 1600]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/RedM.html
-hpwren21_east,east,Red Mountain,rm-e-mobo-c,-117.1905,33.4008,1600.0,Point,"[-117.1905, 33.4008, 1600]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/RedM.html
-hpwren21_south,south,Red Mountain,rm-s-mobo-c,-117.1905,33.4008,1600.0,Point,"[-117.1905, 33.4008, 1600]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/RedM.html
-hpwren21_west,west,Red Mountain,rm-w-mobo-c,-117.1905,33.4008,1600.0,Point,"[-117.1905, 33.4008, 1600]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/RedM.html
-hpwren22_north,north,San Clemente,sclm-n-mobo-c,-117.5973412,33.43141853,870.0,Point,"[-117.5974, 33.4314, 870]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/sclm.html
-hpwren22_east,east,San Clemente,sclm-e-mobo-c,-117.5973412,33.43141853,870.0,Point,"[-117.5974, 33.4314, 870]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/sclm.html
-hpwren22_south,south,San Clemente,sclm-s-mobo-c,-117.5973412,33.43141853,870.0,Point,"[-117.5974, 33.4314, 870]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/sclm.html
-hpwren22_west,west,San Clemente,sclm-w-mobo-c,-117.5973412,33.43141853,870.0,Point,"[-117.5974, 33.4314, 870]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/sclm.html
-hpwren23_east,east,San Diego Supercomputer Center,sdsc-e-mobo-c,-117.239762,32.88444531,425.0,Point,"[-117.24, 32.88, 425]",2048.0,1536.0,http://hpwren.ucsd.edu/cameras/sdsc-e-mobo.html
-hpwren24_north,north,San Juan Hills,sjh-n-mobo-c,-117.6031176,33.50294205,1177.0,Point,"[-117.6031, 33.5029, 1177]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/sjh.html
-hpwren24_east,east,San Juan Hills,sjh-e-mobo-c,-117.6031176,33.50294205,1177.0,Point,"[-117.6031, 33.5029, 1177]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/sjh.html
-hpwren24_south,south,San Juan Hills,sjh-s-mobo-c,-117.6031176,33.50294205,1177.0,Point,"[-117.6031, 33.5029, 1177]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/sjh.html
-hpwren24_west,west,San Juan Hills,sjh-w-mobo-c,-117.6031176,33.50294205,1177.0,Point,"[-117.6031, 33.5029, 1177]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/sjh.html
-hpwren25_north,north,Santa Ysabel,vo-n-mobo-c,-116.6170953,33.13826401,5500.0,Point,"[-116.61, 33.13, 5500]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/VO.html
-hpwren25_east,east,Santa Ysabel,vo-e-mobo-c,-116.6170953,33.13826401,5500.0,Point,"[-116.61, 33.13, 5500]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/VO.html
-hpwren25_south,south,Santa Ysabel,vo-s-mobo-c,-116.6170953,33.13826401,5500.0,Point,"[-116.61, 33.13, 5500]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/VO.html
-hpwren25_west,west,Santa Ysabel,vo-w-mobo-c,-116.6170953,33.13826401,5500.0,Point,"[-116.61, 33.13, 5500]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/VO.html
-hpwren26_north,north,Signal Peak,signal-n-mobo-c,-117.810884,33.60523424,1000.0,Point,"[-117.8109, 33.6052, 1000]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/signal.html
-hpwren26_east,east,Signal Peak,signal-e-mobo-c,-117.810884,33.60523424,1000.0,Point,"[-117.8109, 33.6052, 1000]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/signal.html
-hpwren26_south,south,Signal Peak,signal-s-mobo-c,-117.810884,33.60523424,1000.0,Point,"[-117.8109, 33.6052, 1000]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/signal.html
-hpwren26_west,west,Signal Peak,signal-w-mobo-c,-117.810884,33.60523424,1000.0,Point,"[-117.8109, 33.6052, 1000]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/signal.html
-hpwren27_north,north,Sky Oaks,sojr-n-mobo-c,-116.6222928,33.37865603,4975.0,Point,"[-116.6223, 33.3787, 4975]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/SkyOaksJR.html
-hpwren27_east,east,Sky Oaks,sojr-e-mobo-c,-116.6222928,33.37865603,4975.0,Point,"[-116.6223, 33.3787, 4975]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/SkyOaksJR.html
-hpwren27_south,south,Sky Oaks,sojr-s-mobo-c,-116.6222928,33.37865603,4975.0,Point,"[-116.6223, 33.3787, 4975]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/SkyOaksJR.html
-hpwren27_west,west,Sky Oaks,sojr-w-mobo-c,-116.6222928,33.37865603,4975.0,Point,"[-116.6223, 33.3787, 4975]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/SkyOaksJR.html
-hpwren28_north,north,Toro Peak,tp-n-mobo-c,-116.4257027,33.52353103,8800.0,Point,"[-116.4257, 33.5235, 8800]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/ToroPeak.html
-hpwren28_east,east,Toro Peak,tp-e-mobo-c,-116.4257027,33.52353103,8800.0,Point,"[-116.4257, 33.5235, 8800]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/ToroPeak.html
-hpwren28_south,south,Toro Peak,tp-s-mobo-c,-116.4257027,33.52353103,8800.0,Point,"[-116.4257, 33.5235, 8800]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/ToroPeak.html
-hpwren28_west,west,Toro Peak,tp-w-mobo-c,-116.4257027,33.52353103,8800.0,Point,"[-116.4257, 33.5235, 8800]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/ToroPeak.html
-hpwren29_north,north,Upper Bell,starr-n-mobo-c,-117.5486414,33.61244314,1000.0,Point,"[-117.5486, 33.6124, 1000]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/UpperBell.html
-hpwren29_east,east,Upper Bell,starr-e-mobo-c,-117.5486414,33.61244314,1000.0,Point,"[-117.5486, 33.6124, 1000]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/UpperBell.html
-hpwren29_south,south,Upper Bell,starr-s-mobo-c,-117.5486414,33.61244314,1000.0,Point,"[-117.5486, 33.6124, 1000]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/UpperBell.html
-hpwren29_west,west,Upper Bell,starr-w-mobo-c,-117.5486414,33.61244314,1000.0,Point,"[-117.5486, 33.6124, 1000]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/UpperBell.html
-hpwren30_north,north,Upper Talega,marconi-n-mobo-c,-117.480907,33.51912725,2300.0,Point,"[-117.481, 33.5191, 2300]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/UpperTalega.html
-hpwren30_east,east,Upper Talega,marconi-e-mobo-c,-117.480907,33.51912725,2300.0,Point,"[-117.481, 33.5191, 2300]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/UpperTalega.html
-hpwren30_south,south,Upper Talega,marconi-s-mobo-c,-117.480907,33.51912725,2300.0,Point,"[-117.481, 33.5191, 2300]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/UpperTalega.html
-hpwren30_west,west,Upper Talega,marconi-w-mobo-c,-117.480907,33.51912725,2300.0,Point,"[-117.481, 33.5191, 2300]",3072.0,2048.0,http://hpwren.ucsd.edu/cameras/UpperTalega.html
-hpwren_missing1_north,north,Buffalo Bump,buff-n-mobo-c,-117.3825282,33.42835888,2896.0,,,3072.0,2048.0,
-hpwren_missing1_east,east,Buffalo Bump,buff-e-mobo-c,-117.3825282,33.42835888,2896.0,,,3072.0,2048.0,
-hpwren_missing1_south,south,Buffalo Bump,buff-s-mobo-c,-117.3825282,33.42835888,2896.0,,,3072.0,2048.0,
-hpwren_missing1_west,west,Buffalo Bump,buff-w-mobo-c,-117.3825282,33.42835888,2896.0,,,3072.0,2048.0,
-hpwren_missing2_north,north,Coronado Hills,ch-n-mobo-c,-117.1529606,33.11062723,1600.0,,,3072.0,2048.0,
-hpwren_missing2_east,east,Coronado Hills,ch-e-mobo-c,-117.1529606,33.11062723,1600.0,,,3072.0,2048.0,
-hpwren_missing2_south,south,Coronado Hills,ch-s-mobo-c,-117.1529606,33.11062723,1600.0,,,3072.0,2048.0,
-hpwren_missing2_west,west,Coronado Hills,ch-w-mobo-c,-117.1529606,33.11062723,1600.0,,,3072.0,2048.0,
-hpwren18_north,north,Mt. Wilson Observatory,wilson-n-mobo-c.html,-118.0586478,34.22449951,5620.0,,,3072.0,2048.0,
-hpwren18_east,east,Mt. Wilson Observatory,wilson-e-mobo-c.html,-118.0586478,34.22449951,5620.0,,,3072.0,2048.0,
-hpwren18_south,south,Mt. Wilson Observatory,wilson-s-mobo-c.html,-118.0586478,34.22449951,5620.0,,,3072.0,2048.0,
-hpwren18_west,west,Mt. Wilson Observatory,wilson-w-mobo-c.html,-118.0586478,34.22449951,5620.0,,,3072.0,2048.0,
-hpwren_missing3_north,north,Rincon Del Diablo,rdd-n-mobo-c,-117.1210542,33.09383414,925.0,,,3072.0,2048.0,
-hpwren_missing3_east,east,Rincon Del Diablo,rdd-e-mobo-c,-117.1210542,33.09383414,925.0,,,3072.0,2048.0,
-hpwren_missing3_south,south,Rincon Del Diablo,rdd-s-mobo-c,-117.1210542,33.09383414,925.0,,,3072.0,2048.0,
-hpwren_missing3_west,west,Rincon Del Diablo,rdd-w-mobo-c,-117.1210542,33.09383414,925.0,,,3072.0,2048.0,
-hpwren_missing4_north,north,Santa Ynez Peak,syp-n-mobo-c,-119.9789239,34.52711299,4297.0,,,3072.0,2048.0,
-hpwren_missing4_east,east,Santa Ynez Peak,syp-e-mobo-c,-119.9789239,34.52711299,4297.0,,,3072.0,2048.0,
-hpwren_missing4_south,south,Santa Ynez Peak,syp-s-mobo-c,-119.9789239,34.52711299,4297.0,,,3072.0,2048.0,
-hpwren_missing4_west,west,Santa Ynez Peak,syp-w-mobo-c,-119.9789239,34.52711299,4297.0,,,3072.0,2048.0,
-hpwren_missing5_north,north,Santiago Peak,stgo-n-mobo-c,-117.534115,33.71117247,5669.0,,,3072.0,2048.0,
-hpwren_missing5_east,east,Santiago Peak,stgo-e-mobo-c,-117.534115,33.71117247,5669.0,,,3072.0,2048.0,
-hpwren_missing5_south,south,Santiago Peak,stgo-s-mobo-c,-117.534115,33.71117247,5669.0,,,3072.0,2048.0,
-hpwren_missing5_west,west,Santiago Peak,stgo-w-mobo-c,-117.534115,33.71117247,5669.0,,,3072.0,2048.0,
-hpwren_missing6_north,north,White Star,ws-n-mobo-c,-116.318014,32.647266,4000.0,,,3072.0,2048.0,
-hpwren_missing6_east,east,White Star,ws-e-mobo-c,-116.318014,32.647266,4000.0,,,3072.0,2048.0,
-hpwren_missing6_south,south,White Star,ws-s-mobo-c,-116.318014,32.647266,4000.0,,,3072.0,2048.0,
-hpwren_missing6_west,west,White Star,ws-w-mobo-c,-116.318014,32.647266,4000.0,,,3072.0,2048.0,
+camera_id,direction,camera_name,image_id,long,lat,elevation,geometry.type,geometry.coordinates,x_resolution,y_resolution,center_lat,center_long,properties.description.url
+hpwren0_unknown direction,unknown direction,,tje-1-mobo-c,-117.12,32.55,10.0,Point,"[-117.12, 32.55, 10]",,,,,http://hpwren.ucsd.edu/cameras/TJE.html
+hpwren1_north,north,Big Black Mountain,bm-n-mobo-c,-116.8080915,33.15992729,4055.0,Point,"[-116.8081, 33.1599, 4055]",3072.0,2048.0,33.18159879,-116.8075536,http://hpwren.ucsd.edu/cameras/BBlackMtn.html
+hpwren1_east,east,Big Black Mountain,bm-e-mobo-c,-116.8080915,33.15992729,4055.0,Point,"[-116.8081, 33.1599, 4055]",3072.0,2048.0,33.15878106,-116.7902298,http://hpwren.ucsd.edu/cameras/BBlackMtn.html
+hpwren1_south,south,Big Black Mountain,bm-s-mobo-c,-116.8080915,33.15992729,4055.0,Point,"[-116.8081, 33.1599, 4055]",3072.0,2048.0,33.15793232,-116.8079616,http://hpwren.ucsd.edu/cameras/BBlackMtn.html
+hpwren1_west,west,Big Black Mountain,bm-w-mobo-c,-116.8080915,33.15992729,4055.0,Point,"[-116.8081, 33.1599, 4055]",3072.0,2048.0,33.15909112,-116.8587058,http://hpwren.ucsd.edu/cameras/BBlackMtn.html
+hpwren2_north,north,Black Mountain,bl-n-mobo-c,-117.1164798,32.9814172,1600.0,Point,"[-117.12, 32.98, 1600]",2048.0,1536.0,32.98178813,-117.1165201,http://hpwren.ucsd.edu/cameras/BL.html
+hpwren2_east,east,Black Mountain,bl-e-mobo-c,-117.1164798,32.9814172,1600.0,Point,"[-117.12, 32.98, 1600]",2048.0,1536.0,32.98199379,-117.1111495,http://hpwren.ucsd.edu/cameras/BL.html
+hpwren2_south,south,Black Mountain,bl-s-mobo-c,-117.1164798,32.9814172,1600.0,Point,"[-117.12, 32.98, 1600]",2048.0,1536.0,32.98104323,-117.1163188,http://hpwren.ucsd.edu/cameras/BL.html
+hpwren2_west,west,Black Mountain,bl-w-mobo-c,-117.1164798,32.9814172,1600.0,Point,"[-117.12, 32.98, 1600]",2048.0,1536.0,32.97973512,-117.1274554,http://hpwren.ucsd.edu/cameras/BL.html
+hpwren3_north,north,Boucher Hill,bh-n-mobo-c,-116.9193284,33.33462774,5500.0,Point,"[-116.9198, 33.3346, 5500]",3072.0,2048.0,33.33515112,-116.9193213,http://hpwren.ucsd.edu/cameras/BH.html
+hpwren3_east,east,Boucher Hill,bh-e-mobo-c,-116.9193284,33.33462774,5500.0,Point,"[-116.9198, 33.3346, 5500]",3072.0,2048.0,33.33462443,-116.9187093,http://hpwren.ucsd.edu/cameras/BH.html
+hpwren3_south,south,Boucher Hill,bh-s-mobo-c,-116.9193284,33.33462774,5500.0,Point,"[-116.9198, 33.3346, 5500]",3072.0,2048.0,33.30063393,-116.9211938,http://hpwren.ucsd.edu/cameras/BH.html
+hpwren3_west,west,Boucher Hill,bh-w-mobo-c,-116.9193284,33.33462774,5500.0,Point,"[-116.9198, 33.3346, 5500]",3072.0,2048.0,33.33463517,-116.9199709,http://hpwren.ucsd.edu/cameras/BH.html
+hpwren5_north,north,Chino Hills,chino-n-mobo-c,-117.738297,33.913837,1780.0,Point,"[-117.74, 33.91, 1780]",3072.0,2048.0,33.92261062,-117.7385004,http://hpwren.ucsd.edu/cameras/chino.html
+hpwren5_east,east,Chino Hills,chino-e-mobo-c,-117.738297,33.913837,1780.0,Point,"[-117.74, 33.91, 1780]",3072.0,2048.0,33.91389763,-117.7362709,http://hpwren.ucsd.edu/cameras/chino.html
+hpwren5_south,south,Chino Hills,chino-s-mobo-c,-117.738297,33.913837,1780.0,Point,"[-117.74, 33.91, 1780]",3072.0,2048.0,33.85589999,-117.7378456,http://hpwren.ucsd.edu/cameras/chino.html
+hpwren5_west,west,Chino Hills,chino-w-mobo-c,-117.738297,33.913837,1780.0,Point,"[-117.74, 33.91, 1780]",3072.0,2048.0,33.91387512,-117.7428413,http://hpwren.ucsd.edu/cameras/chino.html
+hpwren6_north,north,Cuyamaca Peak,cp-n-mobo-c,-116.6066707,32.94646305,6500.0,Point,"[-116.61, 32.95, 6500]",3072.0,2048.0,33.10150132,-116.5695751,http://hpwren.ucsd.edu/cameras/CP.html
+hpwren6_east,east,Cuyamaca Peak,cp-e-mobo-c,-116.6066707,32.94646305,6500.0,Point,"[-116.61, 32.95, 6500]",3072.0,2048.0,32.94564449,-116.5896901,http://hpwren.ucsd.edu/cameras/CP.html
+hpwren6_south,south,Cuyamaca Peak,cp-s-mobo-c,-116.6066707,32.94646305,6500.0,Point,"[-116.61, 32.95, 6500]",3072.0,2048.0,32.81059311,-116.5840759,http://hpwren.ucsd.edu/cameras/CP.html
+hpwren6_west,west,Cuyamaca Peak,cp-w-mobo-c,-116.6066707,32.94646305,6500.0,Point,"[-116.61, 32.95, 6500]",3072.0,2048.0,32.94623208,-116.638032,http://hpwren.ucsd.edu/cameras/CP.html
+hpwren7_north,north,Green Peak,dwpgm-n-mobo-c,-118.5487598,34.08640497,1760.0,Point,"[-118.5488, 34.0864, 1760]",3072.0,2048.0,34.09972053,-118.546938,http://hpwren.ucsd.edu/cameras/dwpgm.html
+hpwren7_east,east,Green Peak,dwpgm-e-mobo-c,-118.5487598,34.08640497,1760.0,Point,"[-118.5488, 34.0864, 1760]",3072.0,2048.0,34.05019748,-118.1092179,http://hpwren.ucsd.edu/cameras/dwpgm.html
+hpwren7_south,south,Green Peak,dwpgm-s-mobo-c,-118.5487598,34.08640497,1760.0,Point,"[-118.5488, 34.0864, 1760]",3072.0,2048.0,34.06478884,-118.5513961,http://hpwren.ucsd.edu/cameras/dwpgm.html
+hpwren7_west,west,Green Peak,dwpgm-w-mobo-c,-118.5487598,34.08640497,1760.0,Point,"[-118.5488, 34.0864, 1760]",3072.0,2048.0,34.08785719,-118.5711822,http://hpwren.ucsd.edu/cameras/dwpgm.html
+hpwren8_north,north,High Point,hp-n-mobo-c,-116.83622,33.363018,6180.0,Point,"[-116.84, 33.36, 6180]",2048.0,1536.0,33.37379901,-116.8351765,http://hpwren.ucsd.edu/cameras/HighPoint.html
+hpwren8_east,east,High Point,hp-e-mobo-c,-116.83622,33.363018,6180.0,Point,"[-116.84, 33.36, 6180]",2048.0,1536.0,33.3635489,-116.8248742,http://hpwren.ucsd.edu/cameras/HighPoint.html
+hpwren8_south,south,High Point,hp-s-mobo-c,-116.83622,33.363018,6180.0,Point,"[-116.84, 33.36, 6180]",2048.0,1536.0,33.32595408,-116.8370067,http://hpwren.ucsd.edu/cameras/HighPoint.html
+hpwren8_west,west,High Point,hp-w-mobo-c,-116.83622,33.363018,6180.0,Point,"[-116.84, 33.36, 6180]",2048.0,1536.0,33.36309629,-116.8375149,http://hpwren.ucsd.edu/cameras/HighPoint.html
+hpwren9_north,north,L.A.Co.F.D Helibase 69 Bravo,69bravo-n-mobo-c,-118.6278559,34.07463206,2480.0,Point,"[-118.63, 34.07, 2480]",3072.0,2048.0,34.07533903,-118.6277847,http://hpwren.ucsd.edu/cameras/69bravo.html
+hpwren9_east,east,L.A.Co.F.D Helibase 69 Bravo,69bravo-e-mobo-c,-118.6278559,34.07463206,2480.0,Point,"[-118.63, 34.07, 2480]",3072.0,2048.0,34.07441106,-118.6258859,http://hpwren.ucsd.edu/cameras/69bravo.html
+hpwren9_south,south,L.A.Co.F.D Helibase 69 Bravo,69bravo-s-mobo-c,-118.6278559,34.07463206,2480.0,Point,"[-118.63, 34.07, 2480]",3072.0,2048.0,34.07342081,-118.6279447,http://hpwren.ucsd.edu/cameras/69bravo.html
+hpwren9_west,west,L.A.Co.F.D Helibase 69 Bravo,69bravo-w-mobo-c,-118.6278559,34.07463206,2480.0,Point,"[-118.63, 34.07, 2480]",3072.0,2048.0,34.07480804,-118.6296654,http://hpwren.ucsd.edu/cameras/69bravo.html
+hpwren11_north,north,Los Pinos,pi-n-mobo-c,-116.5776585,32.73451582,4800.0,Point,"[-116.58, 32.73, 4800]",3072.0,2048.0,32.73496385,-116.5776905,http://hpwren.ucsd.edu/cameras/LosPinos.html
+hpwren11_east,east,Los Pinos,pi-e-mobo-c,-116.5776585,32.73451582,4800.0,Point,"[-116.58, 32.73, 4800]",3072.0,2048.0,32.7345954,-116.5755122,http://hpwren.ucsd.edu/cameras/LosPinos.html
+hpwren11_south,south,Los Pinos,pi-s-mobo-c,-116.5776585,32.73451582,4800.0,Point,"[-116.58, 32.73, 4800]",3072.0,2048.0,32.73237726,-116.5775055,http://hpwren.ucsd.edu/cameras/LosPinos.html
+hpwren11_west,west,Los Pinos,pi-w-mobo-c,-116.5776585,32.73451582,4800.0,Point,"[-116.58, 32.73, 4800]",3072.0,2048.0,32.73446656,-116.5809434,http://hpwren.ucsd.edu/cameras/LosPinos.html
+hpwren12_north,north,Lyons Peak,lp-n-mobo-c,-116.7645606,32.70151745,3700.0,Point,"[-116.7646, 32.7015, 3700]",3072.0,2048.0,32.70274532,-116.7645596,http://hpwren.ucsd.edu/cameras/LP.html
+hpwren12_east,east,Lyons Peak,lp-e-mobo-c,-116.7645606,32.70151745,3700.0,Point,"[-116.7646, 32.7015, 3700]",3072.0,2048.0,32.70151604,-116.754257,http://hpwren.ucsd.edu/cameras/LP.html
+hpwren12_south,south,Lyons Peak,lp-s-mobo-c,-116.7645606,32.70151745,3700.0,Point,"[-116.7646, 32.7015, 3700]",3072.0,2048.0,32.69084469,-116.7645718,http://hpwren.ucsd.edu/cameras/LP.html
+hpwren12_west,west,Lyons Peak,lp-w-mobo-c,-116.7645606,32.70151745,3700.0,Point,"[-116.7646, 32.7015, 3700]",3072.0,2048.0,32.70141466,-116.8132546,http://hpwren.ucsd.edu/cameras/LP.html
+hpwren13_north,north,Mesa Grande,mg-n-mobo-c,-116.7606591,33.18885764,4280.0,Point,"[-116.761, 33.188, 4280]",3072.0,2048.0,33.22111909,-116.7611976,http://hpwren.ucsd.edu/cameras/MG.html
+hpwren13_east,east,Mesa Grande,mg-e-mobo-c,-116.7606591,33.18885764,4280.0,Point,"[-116.761, 33.188, 4280]",3072.0,2048.0,33.18869557,-116.7469994,http://hpwren.ucsd.edu/cameras/MG.html
+hpwren13_south,south,Mesa Grande,mg-s-mobo-c,-116.7606591,33.18885764,4280.0,Point,"[-116.761, 33.188, 4280]",3072.0,2048.0,33.16766299,-116.7608921,http://hpwren.ucsd.edu/cameras/MG.html
+hpwren13_west,west,Mesa Grande,mg-w-mobo-c,-116.7606591,33.18885764,4280.0,Point,"[-116.761, 33.188, 4280]",3072.0,2048.0,33.18950737,-116.7939862,http://hpwren.ucsd.edu/cameras/MG.html
+hpwren14_north,north,Mt. Laguna,ml-n-mobo-c,-116.420721,32.892296,6300.0,Point,"[-116.4209, 32.8922, 6300]",2048.0,1536.0,32.97931,-116.433837,http://hpwren.ucsd.edu/cameras/MtLaguna.html
+hpwren14_east,east,Mt. Laguna,ml-e-mobo-c,-116.420721,32.892296,6300.0,Point,"[-116.4209, 32.8922, 6300]",2048.0,1536.0,32.89248153,-116.4178248,http://hpwren.ucsd.edu/cameras/MtLaguna.html
+hpwren14_south,south,Mt. Laguna,ml-s-mobo-c,-116.420721,32.892296,6300.0,Point,"[-116.4209, 32.8922, 6300]",2048.0,1536.0,32.8913446,-116.4206457,http://hpwren.ucsd.edu/cameras/MtLaguna.html
+hpwren14_west,west,Mt. Laguna,ml-w-mobo-c,-116.420721,32.892296,6300.0,Point,"[-116.4209, 32.8922, 6300]",2048.0,1536.0,32.89039892,-116.4305431,http://hpwren.ucsd.edu/cameras/MtLaguna.html
+hpwren15_north,north,Mt. Laguna Observatory,mlo-n-mobo-c,-116.4265161,32.83967399,6180.0,Point,"[-116.4265, 32.8397, 6180]",3072.0,2048.0,32.84250673,-116.4266465,http://hpwren.ucsd.edu/cameras/MLO.html
+hpwren15_east,east,Mt. Laguna Observatory,mlo-e-mobo-c,-116.4265161,32.83967399,6180.0,Point,"[-116.4265, 32.8397, 6180]",3072.0,2048.0,32.83965734,-116.4261181,http://hpwren.ucsd.edu/cameras/MLO.html
+hpwren15_south,south,Mt. Laguna Observatory,mlo-s-mobo-c,-116.4265161,32.83967399,6180.0,Point,"[-116.4265, 32.8397, 6180]",3072.0,2048.0,32.83663733,-116.4264453,http://hpwren.ucsd.edu/cameras/MLO.html
+hpwren15_west,west,Mt. Laguna Observatory,mlo-w-mobo-c,-116.4265161,32.83967399,6180.0,Point,"[-116.4265, 32.8397, 6180]",3072.0,2048.0,32.8395472,-116.4293802,http://hpwren.ucsd.edu/cameras/MLO.html
+hpwren16_north,north,Mt. San Miguel,sm-n-mobo-c,-116.936262,32.69688501,2550.0,Point,"[-116.94, 32.7, 2550]",3072.0,2048.0,32.73789307,-116.9387885,http://hpwren.ucsd.edu/cameras/SM.html
+hpwren16_east,east,Mt. San Miguel,sm-e-mobo-c,-116.936262,32.69688501,2550.0,Point,"[-116.94, 32.7, 2550]",3072.0,2048.0,32.69835888,-116.9061565,http://hpwren.ucsd.edu/cameras/SM.html
+hpwren16_south,south,Mt. San Miguel,sm-s-mobo-c,-116.936262,32.69688501,2550.0,Point,"[-116.94, 32.7, 2550]",3072.0,2048.0,32.61370029,-116.933834,http://hpwren.ucsd.edu/cameras/SM.html
+hpwren16_west,west,Mt. San Miguel,sm-w-mobo-c,-116.936262,32.69688501,2550.0,Point,"[-116.94, 32.7, 2550]",3072.0,2048.0,32.69764572,-116.9976528,http://hpwren.ucsd.edu/cameras/SM.html
+hpwren17_north,north,Mt. Soledad,ms-n-mobo-c,-117.2485966,32.83992291,730.0,Point,"[-117.25, 32.84, 730]",2048.0,1536.0,32.85520812,-117.2485092,http://hpwren.ucsd.edu/cameras/ms-n-mobo.html
+hpwren19_north,north,Mt. Woodson,wc-n-mobo-c-deg,-116.9709795,33.00873795,2800.0,Point,"[-116.9709, 33.0087, 2800]",3072.0,2048.0,33.01771275,-116.9695941,http://hpwren.ucsd.edu/cameras/MW-wc.html
+hpwren19_east,east,Mt. Woodson,wc-e-mobo-c-deg,-116.9709795,33.00873795,2800.0,Point,"[-116.9709, 33.0087, 2800]",3072.0,2048.0,33.00711327,-116.9584223,http://hpwren.ucsd.edu/cameras/MW-wc.html
+hpwren19_south,south,Mt. Woodson,wc-s-mobo-c-deg,-116.9709795,33.00873795,2800.0,Point,"[-116.9709, 33.0087, 2800]",3072.0,2048.0,32.95474176,-116.9944478,http://hpwren.ucsd.edu/cameras/MW-wc.html
+hpwren19_west,west,Mt. Woodson,wc-w-mobo-c-deg,-116.9709795,33.00873795,2800.0,Point,"[-116.9709, 33.0087, 2800]",3072.0,2048.0,33.00904878,-116.9734538,http://hpwren.ucsd.edu/cameras/MW-wc.html
+hpwren20_north,north,Otay Mountain,om-n-mobo-c,-116.8446941,32.59476209,3565.0,Point,"[-116.8447, 32.5948, 3565]",3072.0,2048.0,32.60237051,-116.844502,http://hpwren.ucsd.edu/cameras/OM.html
+hpwren20_east,east,Otay Mountain,om-e-mobo-c,-116.8446941,32.59476209,3565.0,Point,"[-116.8447, 32.5948, 3565]",3072.0,2048.0,32.59481057,-116.836819,http://hpwren.ucsd.edu/cameras/OM.html
+hpwren20_south,south,Otay Mountain,om-s-mobo-c,-116.8446941,32.59476209,3565.0,Point,"[-116.8447, 32.5948, 3565]",3072.0,2048.0,32.59424175,-116.8446861,http://hpwren.ucsd.edu/cameras/OM.html
+hpwren20_west,west,Otay Mountain,om-w-mobo-c,-116.8446941,32.59476209,3565.0,Point,"[-116.8447, 32.5948, 3565]",3072.0,2048.0,32.59483593,-116.8517775,http://hpwren.ucsd.edu/cameras/OM.html
+hpwren21_north,north,Red Mountain,rm-n-mobo-c,-117.1905,33.4008,1600.0,Point,"[-117.1905, 33.4008, 1600]",3072.0,2048.0,33.41066605,-117.1908729,http://hpwren.ucsd.edu/cameras/RedM.html
+hpwren21_east,east,Red Mountain,rm-e-mobo-c,-117.1905,33.4008,1600.0,Point,"[-117.1905, 33.4008, 1600]",3072.0,2048.0,33.40076747,-117.1862292,http://hpwren.ucsd.edu/cameras/RedM.html
+hpwren21_south,south,Red Mountain,rm-s-mobo-c,-117.1905,33.4008,1600.0,Point,"[-117.1905, 33.4008, 1600]",3072.0,2048.0,33.39112605,-117.1903989,http://hpwren.ucsd.edu/cameras/RedM.html
+hpwren21_west,west,Red Mountain,rm-w-mobo-c,-117.1905,33.4008,1600.0,Point,"[-117.1905, 33.4008, 1600]",3072.0,2048.0,33.40058484,-117.2004684,http://hpwren.ucsd.edu/cameras/RedM.html
+hpwren22_north,north,San Clemente,sclm-n-mobo-c,-117.5973412,33.43141853,870.0,Point,"[-117.5974, 33.4314, 870]",3072.0,2048.0,33.47843101,-117.5790061,http://hpwren.ucsd.edu/cameras/sclm.html
+hpwren22_east,east,San Clemente,sclm-e-mobo-c,-117.5973412,33.43141853,870.0,Point,"[-117.5974, 33.4314, 870]",3072.0,2048.0,33.43119726,-117.5858301,http://hpwren.ucsd.edu/cameras/sclm.html
+hpwren22_south,south,San Clemente,sclm-s-mobo-c,-117.5973412,33.43141853,870.0,Point,"[-117.5974, 33.4314, 870]",3072.0,2048.0,33.43010171,-117.5972947,http://hpwren.ucsd.edu/cameras/sclm.html
+hpwren22_west,west,San Clemente,sclm-w-mobo-c,-117.5973412,33.43141853,870.0,Point,"[-117.5974, 33.4314, 870]",3072.0,2048.0,33.43994077,-117.6351622,http://hpwren.ucsd.edu/cameras/sclm.html
+hpwren23_east,east,San Diego Supercomputer Center,sdsc-e-mobo-c,-117.239762,32.88444531,425.0,Point,"[-117.24, 32.88, 425]",2048.0,1536.0,32.88279027,-117.2257347,http://hpwren.ucsd.edu/cameras/sdsc-e-mobo.html
+hpwren24_north,north,San Juan Hills,sjh-n-mobo-c,-117.6031176,33.50294205,1177.0,Point,"[-117.6031, 33.5029, 1177]",3072.0,2048.0,33.50959831,-117.6028375,http://hpwren.ucsd.edu/cameras/sjh.html
+hpwren24_east,east,San Juan Hills,sjh-e-mobo-c,-117.6031176,33.50294205,1177.0,Point,"[-117.6031, 33.5029, 1177]",3072.0,2048.0,33.50292756,-117.5999521,http://hpwren.ucsd.edu/cameras/sjh.html
+hpwren24_south,south,San Juan Hills,sjh-s-mobo-c,-117.6031176,33.50294205,1177.0,Point,"[-117.6031, 33.5029, 1177]",3072.0,2048.0,33.49739448,-117.6028632,http://hpwren.ucsd.edu/cameras/sjh.html
+hpwren24_west,west,San Juan Hills,sjh-w-mobo-c,-117.6031176,33.50294205,1177.0,Point,"[-117.6031, 33.5029, 1177]",3072.0,2048.0,33.50309263,-117.6246855,http://hpwren.ucsd.edu/cameras/sjh.html
+hpwren25_north,north,Santa Ysabel,vo-n-mobo-c,-116.6170953,33.13826401,5500.0,Point,"[-116.61, 33.13, 5500]",3072.0,2048.0,33.16181938,-116.6181518,http://hpwren.ucsd.edu/cameras/VO.html
+hpwren25_east,east,Santa Ysabel,vo-e-mobo-c,-116.6170953,33.13826401,5500.0,Point,"[-116.61, 33.13, 5500]",3072.0,2048.0,33.13889532,-116.5965816,http://hpwren.ucsd.edu/cameras/VO.html
+hpwren25_south,south,Santa Ysabel,vo-s-mobo-c,-116.6170953,33.13826401,5500.0,Point,"[-116.61, 33.13, 5500]",3072.0,2048.0,33.00057335,-116.5955148,http://hpwren.ucsd.edu/cameras/VO.html
+hpwren25_west,west,Santa Ysabel,vo-w-mobo-c,-116.6170953,33.13826401,5500.0,Point,"[-116.61, 33.13, 5500]",3072.0,2048.0,33.13983116,-116.6995747,http://hpwren.ucsd.edu/cameras/VO.html
+hpwren26_north,north,Signal Peak,signal-n-mobo-c,-117.810884,33.60523424,1000.0,Point,"[-117.8109, 33.6052, 1000]",3072.0,2048.0,33.60613199,-117.8109116,http://hpwren.ucsd.edu/cameras/signal.html
+hpwren26_east,east,Signal Peak,signal-e-mobo-c,-117.810884,33.60523424,1000.0,Point,"[-117.8109, 33.6052, 1000]",3072.0,2048.0,33.60532268,-117.8085619,http://hpwren.ucsd.edu/cameras/signal.html
+hpwren26_south,south,Signal Peak,signal-s-mobo-c,-117.810884,33.60523424,1000.0,Point,"[-117.8109, 33.6052, 1000]",3072.0,2048.0,33.60423073,-117.810847,http://hpwren.ucsd.edu/cameras/signal.html
+hpwren26_west,west,Signal Peak,signal-w-mobo-c,-117.810884,33.60523424,1000.0,Point,"[-117.8109, 33.6052, 1000]",3072.0,2048.0,33.60523689,-117.8145783,http://hpwren.ucsd.edu/cameras/signal.html
+hpwren27_north,north,Sky Oaks,sojr-n-mobo-c,-116.6222928,33.37865603,4975.0,Point,"[-116.6223, 33.3787, 4975]",3072.0,2048.0,33.38598819,-116.6225236,http://hpwren.ucsd.edu/cameras/SkyOaksJR.html
+hpwren27_east,east,Sky Oaks,sojr-e-mobo-c,-116.6222928,33.37865603,4975.0,Point,"[-116.6223, 33.3787, 4975]",3072.0,2048.0,33.37921665,-116.5776249,http://hpwren.ucsd.edu/cameras/SkyOaksJR.html
+hpwren27_south,south,Sky Oaks,sojr-s-mobo-c,-116.6222928,33.37865603,4975.0,Point,"[-116.6223, 33.3787, 4975]",3072.0,2048.0,33.37452052,-116.6221394,http://hpwren.ucsd.edu/cameras/SkyOaksJR.html
+hpwren27_west,west,Sky Oaks,sojr-w-mobo-c,-116.6222928,33.37865603,4975.0,Point,"[-116.6223, 33.3787, 4975]",3072.0,2048.0,33.37855199,-116.6258053,http://hpwren.ucsd.edu/cameras/SkyOaksJR.html
+hpwren28_north,north,Toro Peak,tp-n-mobo-c,-116.4257027,33.52353103,8800.0,Point,"[-116.4257, 33.5235, 8800]",3072.0,2048.0,33.77724869,-116.4184919,http://hpwren.ucsd.edu/cameras/ToroPeak.html
+hpwren28_east,east,Toro Peak,tp-e-mobo-c,-116.4257027,33.52353103,8800.0,Point,"[-116.4257, 33.5235, 8800]",3072.0,2048.0,33.52623974,-116.1473642,http://hpwren.ucsd.edu/cameras/ToroPeak.html
+hpwren28_south,south,Toro Peak,tp-s-mobo-c,-116.4257027,33.52353103,8800.0,Point,"[-116.4257, 33.5235, 8800]",3072.0,2048.0,33.27637745,-116.3898008,http://hpwren.ucsd.edu/cameras/ToroPeak.html
+hpwren28_west,west,Toro Peak,tp-w-mobo-c,-116.4257027,33.52353103,8800.0,Point,"[-116.4257, 33.5235, 8800]",3072.0,2048.0,33.50062934,-116.6702284,http://hpwren.ucsd.edu/cameras/ToroPeak.html
+hpwren29_north,north,Upper Bell,starr-n-mobo-c,-117.5486414,33.61244314,1000.0,Point,"[-117.5486, 33.6124, 1000]",3072.0,2048.0,33.61537688,-117.5489481,http://hpwren.ucsd.edu/cameras/UpperBell.html
+hpwren29_east,east,Upper Bell,starr-e-mobo-c,-117.5486414,33.61244314,1000.0,Point,"[-117.5486, 33.6124, 1000]",3072.0,2048.0,33.61412883,-117.5155022,http://hpwren.ucsd.edu/cameras/UpperBell.html
+hpwren29_south,south,Upper Bell,starr-s-mobo-c,-117.5486414,33.61244314,1000.0,Point,"[-117.5486, 33.6124, 1000]",3072.0,2048.0,33.59300023,-117.5467179,http://hpwren.ucsd.edu/cameras/UpperBell.html
+hpwren29_west,west,Upper Bell,starr-w-mobo-c,-117.5486414,33.61244314,1000.0,Point,"[-117.5486, 33.6124, 1000]",3072.0,2048.0,33.61068023,-117.5713795,http://hpwren.ucsd.edu/cameras/UpperBell.html
+hpwren30_north,north,Upper Talega,marconi-n-mobo-c,-117.480907,33.51912725,2300.0,Point,"[-117.481, 33.5191, 2300]",3072.0,2048.0,33.5244452,-117.4811579,http://hpwren.ucsd.edu/cameras/UpperTalega.html
+hpwren30_east,east,Upper Talega,marconi-e-mobo-c,-117.480907,33.51912725,2300.0,Point,"[-117.481, 33.5191, 2300]",3072.0,2048.0,33.51918603,-117.4783761,http://hpwren.ucsd.edu/cameras/UpperTalega.html
+hpwren30_south,south,Upper Talega,marconi-s-mobo-c,-117.480907,33.51912725,2300.0,Point,"[-117.481, 33.5191, 2300]",3072.0,2048.0,33.51453296,-117.480751,http://hpwren.ucsd.edu/cameras/UpperTalega.html
+hpwren30_west,west,Upper Talega,marconi-w-mobo-c,-117.480907,33.51912725,2300.0,Point,"[-117.481, 33.5191, 2300]",3072.0,2048.0,33.51797356,-117.5290868,http://hpwren.ucsd.edu/cameras/UpperTalega.html
+hpwren_missing1_north,north,Buffalo Bump,buff-n-mobo-c,-117.3825282,33.42835888,2896.0,,,3072.0,2048.0,33.43206175,-117.3825107,
+hpwren_missing1_east,east,Buffalo Bump,buff-e-mobo-c,-117.3825282,33.42835888,2896.0,,,3072.0,2048.0,33.42844559,-117.3761462,
+hpwren_missing1_south,south,Buffalo Bump,buff-s-mobo-c,-117.3825282,33.42835888,2896.0,,,3072.0,2048.0,33.40937278,-117.3805376,
+hpwren_missing1_west,west,Buffalo Bump,buff-w-mobo-c,-117.3825282,33.42835888,2896.0,,,3072.0,2048.0,33.42998463,-117.414433,
+hpwren_missing2_north,north,Coronado Hills,ch-n-mobo-c,-117.1529606,33.11062723,1600.0,,,3072.0,2048.0,33.11705716,-117.1530402,
+hpwren_missing2_east,east,Coronado Hills,ch-e-mobo-c,-117.1529606,33.11062723,1600.0,,,3072.0,2048.0,33.11049901,-117.1304912,
+hpwren_missing2_south,south,Coronado Hills,ch-s-mobo-c,-117.1529606,33.11062723,1600.0,,,3072.0,2048.0,33.06667096,-117.1531234,
+hpwren_missing2_west,west,Coronado Hills,ch-w-mobo-c,-117.1529606,33.11062723,1600.0,,,3072.0,2048.0,33.11058033,-117.1789994,
+hpwren18_north,north,Mt. Wilson Observatory,wilson-n-mobo-c.html,-118.0586478,34.22449951,5620.0,,,3072.0,2048.0,34.22632707,-118.0587202,
+hpwren18_east,east,Mt. Wilson Observatory,wilson-e-mobo-c.html,-118.0586478,34.22449951,5620.0,,,3072.0,2048.0,34.22459585,-118.0564518,
+hpwren18_south,south,Mt. Wilson Observatory,wilson-s-mobo-c.html,-118.0586478,34.22449951,5620.0,,,3072.0,2048.0,34.22338887,-118.0588145,
+hpwren18_west,west,Mt. Wilson Observatory,wilson-w-mobo-c.html,-118.0586478,34.22449951,5620.0,,,3072.0,2048.0,34.22465731,-118.0648176,
+hpwren_missing3_north,north,Rincon Del Diablo,rdd-n-mobo-c,-117.1210542,33.09383414,925.0,,,3072.0,2048.0,33.12258198,-117.1211227,
+hpwren_missing3_east,east,Rincon Del Diablo,rdd-e-mobo-c,-117.1210542,33.09383414,925.0,,,3072.0,2048.0,33.04397844,-117.1205586,
+hpwren_missing3_south,south,Rincon Del Diablo,rdd-s-mobo-c,-117.1210542,33.09383414,925.0,,,3072.0,2048.0,33.09371602,-117.118194,
+hpwren_missing3_west,west,Rincon Del Diablo,rdd-w-mobo-c,-117.1210542,33.09383414,925.0,,,3072.0,2048.0,33.09380149,-117.1217033,
+hpwren_missing4_north,north,Santa Ynez Peak,syp-n-mobo-c,-119.9789239,34.52711299,4297.0,,,3072.0,2048.0,34.60066741,-119.9422602,
+hpwren_missing4_east,east,Santa Ynez Peak,syp-e-mobo-c,-119.9789239,34.52711299,4297.0,,,3072.0,2048.0,34.5245174,-119.9717901,
+hpwren_missing4_south,south,Santa Ynez Peak,syp-s-mobo-c,-119.9789239,34.52711299,4297.0,,,3072.0,2048.0,34.52205853,-119.9815327,
+hpwren_missing4_west,west,Santa Ynez Peak,syp-w-mobo-c,-119.9789239,34.52711299,4297.0,,,3072.0,2048.0,34.53380388,-119.9934231,
+hpwren_missing5_north,north,Santiago Peak,stgo-n-mobo-c,-117.534115,33.71117247,5669.0,,,3072.0,2048.0,33.73863279,-117.5394768,
+hpwren_missing5_east,east,Santiago Peak,stgo-e-mobo-c,-117.534115,33.71117247,5669.0,,,3072.0,2048.0,33.71129005,-117.5318059,
+hpwren_missing5_south,south,Santiago Peak,stgo-s-mobo-c,-117.534115,33.71117247,5669.0,,,3072.0,2048.0,33.71041572,-117.5340423,
+hpwren_missing5_west,west,Santiago Peak,stgo-w-mobo-c,-117.534115,33.71117247,5669.0,,,3072.0,2048.0,33.71050284,-117.5545014,
+hpwren_missing6_north,north,White Star,ws-n-mobo-c,-116.318014,32.647266,4000.0,,,3072.0,2048.0,32.65087451,-116.3179544,
+hpwren_missing6_east,east,White Star,ws-e-mobo-c,-116.318014,32.647266,4000.0,,,3072.0,2048.0,32.64640538,-116.3059413,
+hpwren_missing6_south,south,White Star,ws-s-mobo-c,-116.318014,32.647266,4000.0,,,3072.0,2048.0,32.64474228,-116.3179852,
+hpwren_missing6_west,west,White Star,ws-w-mobo-c,-116.318014,32.647266,4000.0,,,3072.0,2048.0,32.64743154,-116.3223024,
