@@ -1,5 +1,6 @@
 # Data Catalog: /data/raw/
 
+Some (but not all) data schemas have been provided below.
 
 ## camera_metadata_manual.csv
 
