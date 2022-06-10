@@ -8,6 +8,7 @@ Some (but not all) data schemas have been provided below.
 | :---        | :----    | :---            |
 | camera_id      | str       | Unique identifier for the camera consisting of station and direction. Originally comes from firemap pylaski api. For manual cameras added that do not exist in pylaski, "hpwren_missing#\_direction" was added. I.e. hpwren1_north, hpwren_missing1_north.   |
 | image_id   | str        | Another form of camera identifer that is parsed from image urls, hence, calling it the image id. I.e. buff-n-mobo-c      |
+| prev_image_ids   | str[]        | List of previous image ids or aliases that a camera has had.      |
 | camera_name   | str        | Camera station name.      |
 | direction   | str        | Direction of camera. North, east, south, west. All lowercase.      |
 | gmap_lat   | float        | Corrected camera lat location with more precision determined via google maps.     |
