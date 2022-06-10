@@ -8,18 +8,18 @@ The intent is that the model is run at the same rate as SmokeyNet (1min) and at 
 This notebook uses landmarks instead of smoke as there did not exist a reliable dataset to use historical smoke as data to train and test the model. The assumption is that these landmarks whose pixel locations and gps coordinates can easily be determined can be used as placeholders for smoke that appears in images.
 
 #### Process - High Level Diagram
-![triangulation_hl_diagram](../../../data/images/triangulation_high_level.png)
+![triangulation_high_level](../../data/images/triangulation_high_level.PNG)
 
 #### Process - Detailed
 1. The model is provided a list of all of the cameras that have seen smoke within the past X minutes and the tiles the smoke appeared in.
 2. The list of cameras is processed to determine which of the cameras in the list are within a close enough are where triangulation is feasibly possible.  This is done because if two cameras in the list are geographically very far apart, it can be assumed that those cameras are observing different fires thus triangulation should not be performed.  After this, camera pairs are formed for which triangulation will be performed.
 3. Camera view objects are created for cameras that are within the resulting list.  These objects contain the information of the camera's view at that given time and leverages a regression model that maps the 2d image to a bird's eye view angle between the camera's centerline of view and the item of interest(smoke). 
 >#### Regression Model Mapping
-![triangulation_hl_diagram](../../../data/images/regression_model_mapping.png)
+![regression_model_mapping](../../data/images/regression_model_mapping.PNG)
 
 4. Triangulation is then performed between the camera view objects whose cameras were determined as pairs in step 2.  This creates linear equations for each camera from the angles determined in step 3, whose intersection is the gps coordinate estimate of the item of interest (smoke).  
 >#### Triangulation Process
-![triangulation_hl_diagram](../../../data/images/triangulation_process.png)
+![triangulation_process](../../data/images/triangulation_process.png)
 
 ---
 ## Python Notebooks
