@@ -1,3 +1,12 @@
 {
-    "synoptic_api_token" : "enterTokenHere"
+    "synoptic_api_token" : "enterTokenHere",
+    "synoptic_base_url": "https://api.synopticdata.com/v2/",
+    "weather_networks":
+        {
+            "139": "SDGE",
+            "81": "HPWREN",
+            "231": "SC-EDISON"
+        },
+    "weather_start_datetime": "201606030000",
+    "weather_end_datetime": "202107120000"
 }
