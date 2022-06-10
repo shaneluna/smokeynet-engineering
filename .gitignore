@@ -134,6 +134,9 @@ dmypy.json
 # Configs
 config.json
 
+# Pycharm
+.idea
+
 # Large files
 /data/raw/weather_SDGE*.csv*
 /data/raw/weather_HPWREN*.csv*
