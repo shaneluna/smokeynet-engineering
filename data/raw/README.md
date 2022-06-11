@@ -57,6 +57,23 @@ For HPWREN cameras, all columns after properties.description.latest-images also 
 | properties.description.fov_rt      | na       |             |
 | properties.description.tilt_current      | na       |             |
 
+## landmarks_manual.csv
+
+Manually found landmarks through images from cameras on the HPWREN network for testing locating approach. If a new landmark is to be added to the dataset, the following should be documented per the columns outlined.
+
+| Attribute      | Type | Description     |
+| :---        | :----    | :---            |
+| landmark      | str       | Descriptive name of the landmark.            |
+| camera_abbrev      | str       |  Official abbreviation of camera that sees the landmark.            |
+| direction      | str       | Direction that the camera is facing.            |
+| lat      | float       | Latitude coordinate of landmark. This has previosuly been found through clicking the landmark in Google Maps            |
+| long      | float       | Longitude coordinate of landmark. This has previosuly been found through clicking the landmark in Google Maps            |
+| x_pixel      | int       | X pixel coordinate of which the landmark generally appears in camera image.           |
+| y_pixel      | int       | Y pixel coodinate of which the landmark generally appears in the camera. This should be closer to the bottom or base of the landmark.            |
+| x_res      | int       | X resolution of the camera that sees the landmark. This is not taken from the camera metadata and is intead documented here in case the camera is ever retrofitted with a new camera of different resolution            |
+| y_res      | int       | Y resolution of the camera that sees the landmark. This is not taken from the camera metadata and is intead documented here in case the camera is ever retrofitted with a new camera of different resolution            |
+| intersection      | str       | 1 if this landmark is also seen by another camera and 0 if it does not. 0 can also be used as the label if another camera also sees the landmark, but the landmark is not to be used for model testing.            |
+
 ## smokeynet_test.json<br>smokeynet_train.json<br>smokeynet_valid.json
 
 Smokeynet files are in json where each object represents 1 image prediction set.<br>
@@ -72,7 +89,7 @@ The attributes for each one of these objects are below:
 
 ## station_metadata.csv
 
-Wide table. Not all attributes are included below, but only ones identified as  most relevant to the analysis done.
+Wide table. Not all attributes are included below, but only ones identified as most relevant to the analysis done.
 
 | Attribute      | Type | Description     |
 | :---        | :----    | :---            |
@@ -93,7 +110,17 @@ Wide table. Not all attributes are included below, but only ones identified as  
 
 ## weather_HPWREN.csv<br>weather_SC-EDISON.csv<br>weather_SDGE.csv
 
-**Note**: When querying stations, the data format returned may vary depending on the type of sensors available. The full set of attributes are joined below in the table.
+Only cols identified as most relevant to the analysis are included below.
+
+**Note**: When querying stations, the data format returned may vary depending on the type of sensors available.
 
 | Attribute      | Type | Description     |
 | :---        | :----    | :---            |
+| Station_ID      | str       | Weather station abbreviation name and id.            |
+| Date_Time      | datetime as str       | The timestamp of the readings in UTC.            |
+| air_temp_set_1      | float       | Air temperature value in celsius.            |
+| relative_humidity_set_1      | float       | Relative humidity value in %.              |
+| wind_speed_set_1      | float       | Wind speed value in m/s.            |
+| wind_gust_set_1      | float       | Wind gust value in m/s.            |
+| wind_direction_set_1      | float       | Wind meteorological direction value in degrees.             |
+| dew_point_temperature_set_1d      | float       | Dew point temperature in Celsius.             |
