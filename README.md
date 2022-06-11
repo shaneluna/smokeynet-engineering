@@ -1,4 +1,7 @@
 # SmokeyNet Engineering
+This project was created for wildfire smoke detection analysis, and aims to improve upon a smoke detection model, SmokeyNet, originally built by the San Diego Supercomputer Center at UCSD.
+
+**Note**: Processed data may change over time depending on latest camera/weather station updates and if the configured timeframe is changed.
 
 ## Getting Started
 

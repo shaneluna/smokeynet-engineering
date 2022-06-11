@@ -8,5 +8,7 @@
             "231": "SC-EDISON"
         },
     "weather_start_datetime": "201606030000",
-    "weather_end_datetime": "202107120000"
+    "weather_end_datetime": "202107120000",
+    "miles": 35,
+    "closest_x": 3
 }
